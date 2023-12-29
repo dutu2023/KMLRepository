@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>杜途~dutu~</name>
+        <Style id="point_style">
+            <IconStyle>
+                <Icon>
+                    <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>山形県庁</name>
+            <description>山形県庁の位置です。</description>
+            <Point>
+                <coordinates>140.363333, 38.240556, 0</coordinates>
+            </Point>
+            <styleUrl>#point_style</styleUrl>
+        </Placemark>
+        <Placemark>
+            <name>sample</name>
+            <description>どこ？</description>
+            <Point>
+                <coordinates>140.0189022, 38.9851295, 0</coordinates>
+            </Point>
+            <styleUrl>#point_style</styleUrl>
+        </Placemark>
+    </Document>
+</kml>
