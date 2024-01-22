@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="27">
+        <Placemark id="29">
+            <name>Point 1</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-05</value>
+                </Data>
+                <Data name="Time">
+                    <value>15:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>大沼新田</value>
+                </Data>
+                <Data name="Area">
+                    <value>松山</value>
+                </Data>
+                <Data name="Information">
+                    <value>大沼新田地区内の最上川堤防でクマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="28">
+                <coordinates>38.8261946,139.9729938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Point 2</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-05</value>
+                </Data>
+                <Data name="Time">
+                    <value>10:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>山寺</value>
+                </Data>
+                <Data name="Area">
+                    <value>松山</value>
+                </Data>
+                <Data name="Information">
+                    <value>字欠之上地内の竹林においてタケノコの食害</value>
+                </Data>
+            </ExtendedData>
+            <Point id="36">
+                <coordinates>38.8438848,139.9674194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Point 3</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-07</value>
+                </Data>
+                <Data name="Time">
+                    <value>11:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>福山</value>
+                </Data>
+                <Data name="Area">
+                    <value>八幡</value>
+                </Data>
+                <Data name="Information">
+                    <value>福山地区内の竹林においてタケノコの食害</value>
+                </Data>
+            </ExtendedData>
+            <Point id="44">
+                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Point 4</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-09</value>
+                </Data>
+                <Data name="Time">
+                    <value>18:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>相沢</value>
+                </Data>
+                <Data name="Area">
+                    <value>松山</value>
+                </Data>
+                <Data name="Information">
+                    <value>相沢地区内の畑でクマの足跡を発見</value>
+                </Data>
+            </ExtendedData>
+            <Point id="52">
+                <coordinates>38.8775504,139.9434201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Point 5</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-10</value>
+                </Data>
+                <Data name="Time">
+                    <value>8:30:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>浜中</value>
+                </Data>
+                <Data name="Area">
+                    <value>酒田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字稲干場地内の畑でクマの足跡を発見。養蜂箱が破壊され蜂蜜の食害</value>
+                </Data>
+            </ExtendedData>
+            <Point id="60">
+                <coordinates>38.8388194,139.7950765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Point 6</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-11</value>
+                </Data>
+                <Data name="Time">
+                    <value>8:45:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>浜中</value>
+                </Data>
+                <Data name="Area">
+                    <value>酒田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字稲干場地内の畑でクマの足跡を発見。養蜂箱が破壊され蜂蜜の食害</value>
+                </Data>
+            </ExtendedData>
+            <Point id="68">
+                <coordinates>38.8388194,139.7950765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Point 7</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-14</value>
+                </Data>
+                <Data name="Time">
+                    <value>6:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>福山</value>
+                </Data>
+                <Data name="Area">
+                    <value>八幡</value>
+                </Data>
+                <Data name="Information">
+                    <value>福山地区内でクマ（1頭・体長1.2m）を目撃　※県直接報告</value>
+                </Data>
+            </ExtendedData>
+            <Point id="76">
+                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Point 8</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-14</value>
+                </Data>
+                <Data name="Time">
+                    <value>14:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>坂野辺新田</value>
+                </Data>
+                <Data name="Area">
+                    <value>酒田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字西狢山地内の畑に設置してある養蜂箱の破壊され蜂蜜の食害</value>
+                </Data>
+            </ExtendedData>
+            <Point id="84">
+                <coordinates>38.8672909,139.8184092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Point 9</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-14</value>
+                </Data>
+                <Data name="Time">
+                    <value>18:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>坂野辺新田</value>
+                </Data>
+                <Data name="Area">
+                    <value>酒田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字地続山地内の十坂小学校の南方約500mでクマの足跡を発見</value>
+                </Data>
+            </ExtendedData>
+            <Point id="92">
+                <coordinates>38.8672909,139.8184092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Point 10</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-15</value>
+                </Data>
+                <Data name="Time">
+                    <value>7:30:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>坂野辺新田</value>
+                </Data>
+                <Data name="Area">
+                    <value>酒田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字地続山地内の畑でクマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="100">
+                <coordinates>38.8672909,139.8184092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Point 11</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-15</value>
+                </Data>
+                <Data name="Time">
+                    <value>15:15:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>臼ケ沢</value>
+                </Data>
+                <Data name="Area">
+                    <value>松山</value>
+                </Data>
+                <Data name="Information">
+                    <value>大沼新田と臼ケ沢地区の境の山側へ移動するクマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="108">
+                <coordinates>38.8254654,139.9855366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Point 12</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-16</value>
+                </Data>
+                <Data name="Time">
+                    <value>7:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>大蕨</value>
+                </Data>
+                <Data name="Area">
+                    <value>八幡</value>
+                </Data>
+                <Data name="Information">
+                    <value>字水上地内の竹林においてタケノコの食害（30本程度）</value>
+                </Data>
+            </ExtendedData>
+            <Point id="116">
+                <coordinates>38.9766997,139.9926013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Point 13</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-16</value>
+                </Data>
+                <Data name="Time">
+                    <value>9:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>泥沢</value>
+                </Data>
+                <Data name="Area">
+                    <value>八幡</value>
+                </Data>
+                <Data name="Information">
+                    <value>字大峯地内の竹林においてタケノコの食害（7本程度）</value>
+                </Data>
+            </ExtendedData>
+            <Point id="124">
+                <coordinates>38.9851295,140.0189022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Point 14</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-16</value>
+                </Data>
+                <Data name="Time">
+                    <value>13:40:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>山寺</value>
+                </Data>
+                <Data name="Area">
+                    <value>松山</value>
+                </Data>
+                <Data name="Information">
+                    <value>大沼新田と山寺地区の境の山際を北側へ移動するクマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="132">
+                <coordinates>38.8438848,139.9674194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Point 15</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-18</value>
+                </Data>
+                <Data name="Time">
+                    <value>16:40:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>中野俣</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字赤田沢地内の浄水場付近の道路を横切り、山林へ移動するクマ（1頭）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="140">
+                <coordinates>38.8966134,140.084668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>Point 16</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-19</value>
+                </Data>
+                <Data name="Time">
+                    <value>9:30:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>福山</value>
+                </Data>
+                <Data name="Area">
+                    <value>八幡</value>
+                </Data>
+                <Data name="Information">
+                    <value>福山地区内の竹林においてタケノコの食害</value>
+                </Data>
+            </ExtendedData>
+            <Point id="148">
+                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Point 17</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-19</value>
+                </Data>
+                <Data name="Time">
+                    <value>11:26:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>生石</value>
+                </Data>
+                <Data name="Area">
+                    <value>酒田</value>
+                </Data>
+                <Data name="Information">
+                    <value>生石地区から500m先の市道矢流川大平線上を横断するクマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="156">
+                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>Point 18</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-21</value>
+                </Data>
+                <Data name="Time">
+                    <value>18:50:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>北俣</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字吉ケ沢地内の水田を移動するクマ（1頭・体長0.8m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="164">
+                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Point 19</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-22</value>
+                </Data>
+                <Data name="Time">
+                    <value>4:30:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>草津</value>
+                </Data>
+                <Data name="Area">
+                    <value>八幡</value>
+                </Data>
+                <Data name="Information">
+                    <value>字湯ノ台地内の宿泊施設周辺でクマ（1頭）を目撃　※5月に数回目撃あり</value>
+                </Data>
+            </ExtendedData>
+            <Point id="172">
+                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>Point 20</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-22</value>
+                </Data>
+                <Data name="Time">
+                    <value>18:30:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>草津</value>
+                </Data>
+                <Data name="Area">
+                    <value>八幡</value>
+                </Data>
+                <Data name="Information">
+                    <value>上草津より上200m先の県道鳥海公園青沢線（368号）付近でクマ（1頭・体長2.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="180">
+                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>Point 21</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-24</value>
+                </Data>
+                <Data name="Time">
+                    <value>6:30:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>中村</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>中村と本宮地区の間の県道海ケ沢松山線（362号）上を横断し、道路東側の山林へ移動するクマ（1頭・体長0.5m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="188">
+                <coordinates>38.9587637,139.8879822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>Point 22</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-24</value>
+                </Data>
+                <Data name="Time">
+                    <value>18:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>楢橋</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字大柳地内の民家付近に出没し、温浴施設方向に移動するクマ（1頭・体長0.5m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="196">
+                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>Point 23</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-25</value>
+                </Data>
+                <Data name="Time">
+                    <value>19:50:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>北俣</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字吉ケ沢地内の民家敷地内の倉庫入口に置いている米ぬかの食害。クマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="204">
+                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Point 24</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-26</value>
+                </Data>
+                <Data name="Time">
+                    <value>17:15:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>楯山</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字村前地内の民家の真後ろ約20m先で移動しているクマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="212">
+                <coordinates>38.86818770000001,140.0611586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>Point 25</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-27</value>
+                </Data>
+                <Data name="Time">
+                    <value>3:30:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>落野目</value>
+                </Data>
+                <Data name="Area">
+                    <value>酒田</value>
+                </Data>
+                <Data name="Information">
+                    <value>落野目地区内の県道酒田鶴岡線（38号（旧国道47号））上を北西へ移動するクマ（1頭・体長0.7m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="220">
+                <coordinates>38.8883726,139.840955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>Point 26</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-27</value>
+                </Data>
+                <Data name="Time">
+                    <value>18:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>楢橋</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字大柳地内の楢橋大柳自治会館の北西100mでクマ（1頭・体長0.8m）を目撃　※24番関連</value>
+                </Data>
+            </ExtendedData>
+            <Point id="228">
+                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>Point 27</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-28</value>
+                </Data>
+                <Data name="Time">
+                    <value>18:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>楢橋</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字大柳地内の民家付近でクマ（1頭・体長0.8m）を目撃　※24番関連</value>
+                </Data>
+            </ExtendedData>
+            <Point id="236">
+                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>Point 28</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-29</value>
+                </Data>
+                <Data name="Time">
+                    <value>6:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>楢橋</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字大柳地内の民家敷地内の種もみが散乱し、山椒の木にクマの爪痕あり　※24番関連</value>
+                </Data>
+            </ExtendedData>
+            <Point id="244">
+                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>Point 29</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-29</value>
+                </Data>
+                <Data name="Time">
+                    <value>8:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>山楯</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字北山地内の民家敷地内でクマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="252">
+                <coordinates>38.8987154,139.9457416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>Point 30</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-30</value>
+                </Data>
+                <Data name="Time">
+                    <value>11:55:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>楯山</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字岩花地内でクマ（1頭・体長1.0m）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="260">
+                <coordinates>38.86818770000001,140.0611586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>Point 31</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-05-30</value>
+                </Data>
+                <Data name="Time">
+                    <value>23:50:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>新堀</value>
+                </Data>
+                <Data name="Area">
+                    <value>酒田</value>
+                </Data>
+                <Data name="Information">
+                    <value>新堀地区内の国道47号新堀IC付近でクマ（1頭）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="268">
+                <coordinates>38.8762164,139.8800666,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
