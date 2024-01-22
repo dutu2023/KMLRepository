@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1713">
+        <Placemark id="1715">
+            <name>Point 1</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-12-28</value>
+                </Data>
+                <Data name="Time">
+                    <value>13:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>山楯</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字南山添地内の民家敷地内においてクマ（1頭）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1714">
+                <coordinates>38.8987154,139.9457416,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
