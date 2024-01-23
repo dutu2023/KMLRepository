@@ -21,7 +21,7 @@
                 </Data>
             </ExtendedData>
             <Point id="2">
-                <coordinates>38.9851295,140.0189022,0.0</coordinates>
+                <coordinates>140.0189022,38.9851295,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="11">
@@ -44,7 +44,7 @@
                 </Data>
             </ExtendedData>
             <Point id="10">
-                <coordinates>38.9077559,139.9797099,0.0</coordinates>
+                <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="19">
@@ -67,7 +67,7 @@
                 </Data>
             </ExtendedData>
             <Point id="18">
-                <coordinates>38.9513686,139.9998517,0.0</coordinates>
+                <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="27">
@@ -90,7 +90,7 @@
                 </Data>
             </ExtendedData>
             <Point id="26">
-                <coordinates>38.8261946,139.9729938,0.0</coordinates>
+                <coordinates>139.9729938,38.8261946,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="35">
@@ -113,7 +113,7 @@
                 </Data>
             </ExtendedData>
             <Point id="34">
-                <coordinates>38.8438848,139.9674194,0.0</coordinates>
+                <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="43">
@@ -136,7 +136,7 @@
                 </Data>
             </ExtendedData>
             <Point id="42">
-                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+                <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="51">
@@ -159,7 +159,7 @@
                 </Data>
             </ExtendedData>
             <Point id="50">
-                <coordinates>38.8775504,139.9434201,0.0</coordinates>
+                <coordinates>139.9434201,38.8775504,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="59">
@@ -182,7 +182,7 @@
                 </Data>
             </ExtendedData>
             <Point id="58">
-                <coordinates>38.8388194,139.7950765,0.0</coordinates>
+                <coordinates>139.7950765,38.8388194,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="67">
@@ -205,7 +205,7 @@
                 </Data>
             </ExtendedData>
             <Point id="66">
-                <coordinates>38.8388194,139.7950765,0.0</coordinates>
+                <coordinates>139.7950765,38.8388194,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="75">
@@ -228,7 +228,7 @@
                 </Data>
             </ExtendedData>
             <Point id="74">
-                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+                <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="83">
@@ -251,7 +251,7 @@
                 </Data>
             </ExtendedData>
             <Point id="82">
-                <coordinates>38.8672909,139.8184092,0.0</coordinates>
+                <coordinates>139.8184092,38.8672909,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="91">
@@ -274,7 +274,7 @@
                 </Data>
             </ExtendedData>
             <Point id="90">
-                <coordinates>38.8672909,139.8184092,0.0</coordinates>
+                <coordinates>139.8184092,38.8672909,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="99">
@@ -297,7 +297,7 @@
                 </Data>
             </ExtendedData>
             <Point id="98">
-                <coordinates>38.8672909,139.8184092,0.0</coordinates>
+                <coordinates>139.8184092,38.8672909,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="107">
@@ -320,7 +320,7 @@
                 </Data>
             </ExtendedData>
             <Point id="106">
-                <coordinates>38.8254654,139.9855366,0.0</coordinates>
+                <coordinates>139.9855366,38.8254654,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="115">
@@ -343,7 +343,7 @@
                 </Data>
             </ExtendedData>
             <Point id="114">
-                <coordinates>38.9766997,139.9926013,0.0</coordinates>
+                <coordinates>139.9926013,38.9766997,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="123">
@@ -366,7 +366,7 @@
                 </Data>
             </ExtendedData>
             <Point id="122">
-                <coordinates>38.9851295,140.0189022,0.0</coordinates>
+                <coordinates>140.0189022,38.9851295,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="131">
@@ -389,7 +389,7 @@
                 </Data>
             </ExtendedData>
             <Point id="130">
-                <coordinates>38.8438848,139.9674194,0.0</coordinates>
+                <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="139">
@@ -412,7 +412,7 @@
                 </Data>
             </ExtendedData>
             <Point id="138">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="147">
@@ -435,7 +435,7 @@
                 </Data>
             </ExtendedData>
             <Point id="146">
-                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+                <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="155">
@@ -458,7 +458,7 @@
                 </Data>
             </ExtendedData>
             <Point id="154">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="163">
@@ -481,7 +481,7 @@
                 </Data>
             </ExtendedData>
             <Point id="162">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="171">
@@ -504,7 +504,7 @@
                 </Data>
             </ExtendedData>
             <Point id="170">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="179">
@@ -527,7 +527,7 @@
                 </Data>
             </ExtendedData>
             <Point id="178">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="187">
@@ -550,7 +550,7 @@
                 </Data>
             </ExtendedData>
             <Point id="186">
-                <coordinates>38.9587637,139.8879822,0.0</coordinates>
+                <coordinates>139.8879822,38.9587637,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="195">
@@ -573,7 +573,7 @@
                 </Data>
             </ExtendedData>
             <Point id="194">
-                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+                <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="203">
@@ -596,7 +596,7 @@
                 </Data>
             </ExtendedData>
             <Point id="202">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="211">
@@ -619,7 +619,7 @@
                 </Data>
             </ExtendedData>
             <Point id="210">
-                <coordinates>38.86818770000001,140.0611586,0.0</coordinates>
+                <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="219">
@@ -642,7 +642,7 @@
                 </Data>
             </ExtendedData>
             <Point id="218">
-                <coordinates>38.8883726,139.840955,0.0</coordinates>
+                <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="227">
@@ -665,7 +665,7 @@
                 </Data>
             </ExtendedData>
             <Point id="226">
-                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+                <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="235">
@@ -688,7 +688,7 @@
                 </Data>
             </ExtendedData>
             <Point id="234">
-                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+                <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="243">
@@ -711,7 +711,7 @@
                 </Data>
             </ExtendedData>
             <Point id="242">
-                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+                <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="251">
@@ -734,7 +734,7 @@
                 </Data>
             </ExtendedData>
             <Point id="250">
-                <coordinates>38.8987154,139.9457416,0.0</coordinates>
+                <coordinates>139.9457416,38.8987154,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="259">
@@ -757,7 +757,7 @@
                 </Data>
             </ExtendedData>
             <Point id="258">
-                <coordinates>38.86818770000001,140.0611586,0.0</coordinates>
+                <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="267">
@@ -780,7 +780,7 @@
                 </Data>
             </ExtendedData>
             <Point id="266">
-                <coordinates>38.8762164,139.8800666,0.0</coordinates>
+                <coordinates>139.8800666,38.8762164,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="275">
@@ -803,7 +803,7 @@
                 </Data>
             </ExtendedData>
             <Point id="274">
-                <coordinates>38.9995723,139.9850615,0.0</coordinates>
+                <coordinates>139.9850615,38.9995723,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="283">
@@ -826,7 +826,7 @@
                 </Data>
             </ExtendedData>
             <Point id="282">
-                <coordinates>38.882186,139.991981,0.0</coordinates>
+                <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="291">
@@ -849,7 +849,7 @@
                 </Data>
             </ExtendedData>
             <Point id="290">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="299">
@@ -872,7 +872,7 @@
                 </Data>
             </ExtendedData>
             <Point id="298">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="307">
@@ -895,7 +895,7 @@
                 </Data>
             </ExtendedData>
             <Point id="306">
-                <coordinates>38.8259317,139.8037709,0.0</coordinates>
+                <coordinates>139.8037709,38.8259317,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="315">
@@ -918,7 +918,7 @@
                 </Data>
             </ExtendedData>
             <Point id="314">
-                <coordinates>38.8388194,139.7950765,0.0</coordinates>
+                <coordinates>139.7950765,38.8388194,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="323">
@@ -941,7 +941,7 @@
                 </Data>
             </ExtendedData>
             <Point id="322">
-                <coordinates>38.8883726,139.840955,0.0</coordinates>
+                <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="331">
@@ -964,7 +964,7 @@
                 </Data>
             </ExtendedData>
             <Point id="330">
-                <coordinates>38.8438848,139.9674194,0.0</coordinates>
+                <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="339">
@@ -987,7 +987,7 @@
                 </Data>
             </ExtendedData>
             <Point id="338">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="347">
@@ -1010,7 +1010,7 @@
                 </Data>
             </ExtendedData>
             <Point id="346">
-                <coordinates>38.970303,139.9435724,0.0</coordinates>
+                <coordinates>139.9435724,38.970303,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="355">
@@ -1033,7 +1033,7 @@
                 </Data>
             </ExtendedData>
             <Point id="354">
-                <coordinates>39.0562101,140.0828731,0.0</coordinates>
+                <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="363">
@@ -1056,7 +1056,7 @@
                 </Data>
             </ExtendedData>
             <Point id="362">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="371">
@@ -1079,7 +1079,7 @@
                 </Data>
             </ExtendedData>
             <Point id="370">
-                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+                <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="379">
@@ -1102,7 +1102,7 @@
                 </Data>
             </ExtendedData>
             <Point id="378">
-                <coordinates>38.9995723,139.9850615,0.0</coordinates>
+                <coordinates>139.9850615,38.9995723,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="387">
@@ -1125,7 +1125,7 @@
                 </Data>
             </ExtendedData>
             <Point id="386">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="395">
@@ -1148,7 +1148,7 @@
                 </Data>
             </ExtendedData>
             <Point id="394">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="403">
@@ -1171,7 +1171,7 @@
                 </Data>
             </ExtendedData>
             <Point id="402">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="411">
@@ -1194,7 +1194,7 @@
                 </Data>
             </ExtendedData>
             <Point id="410">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="419">
@@ -1217,7 +1217,7 @@
                 </Data>
             </ExtendedData>
             <Point id="418">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="427">
@@ -1240,7 +1240,7 @@
                 </Data>
             </ExtendedData>
             <Point id="426">
-                <coordinates>38.9513686,139.9998517,0.0</coordinates>
+                <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="435">
@@ -1263,7 +1263,7 @@
                 </Data>
             </ExtendedData>
             <Point id="434">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="443">
@@ -1286,7 +1286,7 @@
                 </Data>
             </ExtendedData>
             <Point id="442">
-                <coordinates>38.975717,140.0938351,0.0</coordinates>
+                <coordinates>140.0938351,38.975717,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="451">
@@ -1309,7 +1309,7 @@
                 </Data>
             </ExtendedData>
             <Point id="450">
-                <coordinates>38.86818770000001,140.0611586,0.0</coordinates>
+                <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="459">
@@ -1332,7 +1332,7 @@
                 </Data>
             </ExtendedData>
             <Point id="458">
-                <coordinates>38.951237,139.9593193,0.0</coordinates>
+                <coordinates>139.9593193,38.951237,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="467">
@@ -1355,7 +1355,7 @@
                 </Data>
             </ExtendedData>
             <Point id="466">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="475">
@@ -1378,7 +1378,7 @@
                 </Data>
             </ExtendedData>
             <Point id="474">
-                <coordinates>38.9533445,139.9345486,0.0</coordinates>
+                <coordinates>139.9345486,38.9533445,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="483">
@@ -1401,7 +1401,7 @@
                 </Data>
             </ExtendedData>
             <Point id="482">
-                <coordinates>39.0562101,140.0828731,0.0</coordinates>
+                <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="491">
@@ -1424,7 +1424,7 @@
                 </Data>
             </ExtendedData>
             <Point id="490">
-                <coordinates>38.9902516,139.9738653,0.0</coordinates>
+                <coordinates>139.9738653,38.9902516,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="499">
@@ -1447,7 +1447,7 @@
                 </Data>
             </ExtendedData>
             <Point id="498">
-                <coordinates>38.8254654,139.9855366,0.0</coordinates>
+                <coordinates>139.9855366,38.8254654,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="507">
@@ -1470,7 +1470,7 @@
                 </Data>
             </ExtendedData>
             <Point id="506">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="515">
@@ -1493,7 +1493,7 @@
                 </Data>
             </ExtendedData>
             <Point id="514">
-                <coordinates>38.8388194,139.7950765,0.0</coordinates>
+                <coordinates>139.7950765,38.8388194,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="523">
@@ -1516,7 +1516,7 @@
                 </Data>
             </ExtendedData>
             <Point id="522">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="531">
@@ -1539,7 +1539,7 @@
                 </Data>
             </ExtendedData>
             <Point id="530">
-                <coordinates>38.9038372,139.9615582,0.0</coordinates>
+                <coordinates>139.9615582,38.9038372,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="539">
@@ -1562,7 +1562,7 @@
                 </Data>
             </ExtendedData>
             <Point id="538">
-                <coordinates>38.9077559,139.9797099,0.0</coordinates>
+                <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="547">
@@ -1585,7 +1585,7 @@
                 </Data>
             </ExtendedData>
             <Point id="546">
-                <coordinates>39.0562101,140.0828731,0.0</coordinates>
+                <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="555">
@@ -1608,7 +1608,7 @@
                 </Data>
             </ExtendedData>
             <Point id="554">
-                <coordinates>38.9688476,139.9562415,0.0</coordinates>
+                <coordinates>139.9562415,38.9688476,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="563">
@@ -1631,7 +1631,7 @@
                 </Data>
             </ExtendedData>
             <Point id="562">
-                <coordinates>38.951237,139.9593193,0.0</coordinates>
+                <coordinates>139.9593193,38.951237,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="571">
@@ -1654,7 +1654,7 @@
                 </Data>
             </ExtendedData>
             <Point id="570">
-                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+                <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="579">
@@ -1677,7 +1677,7 @@
                 </Data>
             </ExtendedData>
             <Point id="578">
-                <coordinates>38.963144,139.946048,0.0</coordinates>
+                <coordinates>139.946048,38.963144,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="587">
@@ -1700,7 +1700,7 @@
                 </Data>
             </ExtendedData>
             <Point id="586">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="595">
@@ -1723,7 +1723,7 @@
                 </Data>
             </ExtendedData>
             <Point id="594">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="603">
@@ -1746,7 +1746,7 @@
                 </Data>
             </ExtendedData>
             <Point id="602">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="611">
@@ -1769,7 +1769,7 @@
                 </Data>
             </ExtendedData>
             <Point id="610">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="619">
@@ -1792,7 +1792,7 @@
                 </Data>
             </ExtendedData>
             <Point id="618">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="627">
@@ -1815,7 +1815,7 @@
                 </Data>
             </ExtendedData>
             <Point id="626">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="635">
@@ -1838,7 +1838,7 @@
                 </Data>
             </ExtendedData>
             <Point id="634">
-                <coordinates>38.844598,139.9978142,0.0</coordinates>
+                <coordinates>139.9978142,38.844598,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="643">
@@ -1861,7 +1861,7 @@
                 </Data>
             </ExtendedData>
             <Point id="642">
-                <coordinates>38.8374094,140.0778169,0.0</coordinates>
+                <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="651">
@@ -1884,7 +1884,7 @@
                 </Data>
             </ExtendedData>
             <Point id="650">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="659">
@@ -1907,7 +1907,7 @@
                 </Data>
             </ExtendedData>
             <Point id="658">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="667">
@@ -1930,7 +1930,7 @@
                 </Data>
             </ExtendedData>
             <Point id="666">
-                <coordinates>38.9851295,140.0189022,0.0</coordinates>
+                <coordinates>140.0189022,38.9851295,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="675">
@@ -1953,7 +1953,7 @@
                 </Data>
             </ExtendedData>
             <Point id="674">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="683">
@@ -1976,7 +1976,7 @@
                 </Data>
             </ExtendedData>
             <Point id="682">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="691">
@@ -1999,7 +1999,7 @@
                 </Data>
             </ExtendedData>
             <Point id="690">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="699">
@@ -2022,7 +2022,7 @@
                 </Data>
             </ExtendedData>
             <Point id="698">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="707">
@@ -2045,7 +2045,7 @@
                 </Data>
             </ExtendedData>
             <Point id="706">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="715">
@@ -2068,7 +2068,7 @@
                 </Data>
             </ExtendedData>
             <Point id="714">
-                <coordinates>38.8374094,140.0778169,0.0</coordinates>
+                <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="723">
@@ -2091,7 +2091,7 @@
                 </Data>
             </ExtendedData>
             <Point id="722">
-                <coordinates>38.8254654,139.9855366,0.0</coordinates>
+                <coordinates>139.9855366,38.8254654,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="731">
@@ -2114,7 +2114,7 @@
                 </Data>
             </ExtendedData>
             <Point id="730">
-                <coordinates>38.8528788,139.9621203,0.0</coordinates>
+                <coordinates>139.9621203,38.8528788,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="739">
@@ -2137,7 +2137,7 @@
                 </Data>
             </ExtendedData>
             <Point id="738">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="747">
@@ -2160,7 +2160,7 @@
                 </Data>
             </ExtendedData>
             <Point id="746">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="755">
@@ -2183,7 +2183,7 @@
                 </Data>
             </ExtendedData>
             <Point id="754">
-                <coordinates>38.9688476,139.9562415,0.0</coordinates>
+                <coordinates>139.9562415,38.9688476,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="763">
@@ -2206,7 +2206,7 @@
                 </Data>
             </ExtendedData>
             <Point id="762">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="771">
@@ -2229,7 +2229,7 @@
                 </Data>
             </ExtendedData>
             <Point id="770">
-                <coordinates>38.882186,139.991981,0.0</coordinates>
+                <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="779">
@@ -2252,7 +2252,7 @@
                 </Data>
             </ExtendedData>
             <Point id="778">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="787">
@@ -2275,7 +2275,7 @@
                 </Data>
             </ExtendedData>
             <Point id="786">
-                <coordinates>38.8374094,140.0778169,0.0</coordinates>
+                <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="795">
@@ -2298,7 +2298,7 @@
                 </Data>
             </ExtendedData>
             <Point id="794">
-                <coordinates>38.8064659,140.013667,0.0</coordinates>
+                <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="803">
@@ -2321,7 +2321,7 @@
                 </Data>
             </ExtendedData>
             <Point id="802">
-                <coordinates>38.8374094,140.0778169,0.0</coordinates>
+                <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="811">
@@ -2344,7 +2344,7 @@
                 </Data>
             </ExtendedData>
             <Point id="810">
-                <coordinates>38.8528788,139.9621203,0.0</coordinates>
+                <coordinates>139.9621203,38.8528788,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="819">
@@ -2367,7 +2367,7 @@
                 </Data>
             </ExtendedData>
             <Point id="818">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="827">
@@ -2390,7 +2390,7 @@
                 </Data>
             </ExtendedData>
             <Point id="826">
-                <coordinates>38.8374094,140.0778169,0.0</coordinates>
+                <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="835">
@@ -2413,7 +2413,7 @@
                 </Data>
             </ExtendedData>
             <Point id="834">
-                <coordinates>38.8064659,140.013667,0.0</coordinates>
+                <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="843">
@@ -2436,7 +2436,7 @@
                 </Data>
             </ExtendedData>
             <Point id="842">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="851">
@@ -2459,7 +2459,7 @@
                 </Data>
             </ExtendedData>
             <Point id="850">
-                <coordinates>38.86818770000001,140.0611586,0.0</coordinates>
+                <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="859">
@@ -2482,7 +2482,7 @@
                 </Data>
             </ExtendedData>
             <Point id="858">
-                <coordinates>38.9533445,139.9345486,0.0</coordinates>
+                <coordinates>139.9345486,38.9533445,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="867">
@@ -2505,7 +2505,7 @@
                 </Data>
             </ExtendedData>
             <Point id="866">
-                <coordinates>38.8374094,140.0778169,0.0</coordinates>
+                <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="875">
@@ -2528,7 +2528,7 @@
                 </Data>
             </ExtendedData>
             <Point id="874">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="883">
@@ -2551,7 +2551,7 @@
                 </Data>
             </ExtendedData>
             <Point id="882">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="891">
@@ -2574,7 +2574,7 @@
                 </Data>
             </ExtendedData>
             <Point id="890">
-                <coordinates>38.8064659,140.013667,0.0</coordinates>
+                <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="899">
@@ -2597,7 +2597,7 @@
                 </Data>
             </ExtendedData>
             <Point id="898">
-                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+                <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="907">
@@ -2620,7 +2620,7 @@
                 </Data>
             </ExtendedData>
             <Point id="906">
-                <coordinates>38.9513686,139.9998517,0.0</coordinates>
+                <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="915">
@@ -2643,7 +2643,7 @@
                 </Data>
             </ExtendedData>
             <Point id="914">
-                <coordinates>38.975717,140.0938351,0.0</coordinates>
+                <coordinates>140.0938351,38.975717,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="923">
@@ -2666,7 +2666,7 @@
                 </Data>
             </ExtendedData>
             <Point id="922">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="931">
@@ -2689,7 +2689,7 @@
                 </Data>
             </ExtendedData>
             <Point id="930">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="939">
@@ -2712,7 +2712,7 @@
                 </Data>
             </ExtendedData>
             <Point id="938">
-                <coordinates>38.9688476,139.9562415,0.0</coordinates>
+                <coordinates>139.9562415,38.9688476,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="947">
@@ -2735,7 +2735,7 @@
                 </Data>
             </ExtendedData>
             <Point id="946">
-                <coordinates>38.8200669,140.0354178,0.0</coordinates>
+                <coordinates>140.0354178,38.8200669,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="955">
@@ -2758,7 +2758,7 @@
                 </Data>
             </ExtendedData>
             <Point id="954">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="963">
@@ -2781,7 +2781,7 @@
                 </Data>
             </ExtendedData>
             <Point id="962">
-                <coordinates>38.8064659,140.013667,0.0</coordinates>
+                <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="971">
@@ -2804,7 +2804,7 @@
                 </Data>
             </ExtendedData>
             <Point id="970">
-                <coordinates>38.951237,139.9593193,0.0</coordinates>
+                <coordinates>139.9593193,38.951237,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="979">
@@ -2827,7 +2827,7 @@
                 </Data>
             </ExtendedData>
             <Point id="978">
-                <coordinates>38.8946859,139.9478787,0.0</coordinates>
+                <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="987">
@@ -2850,7 +2850,7 @@
                 </Data>
             </ExtendedData>
             <Point id="986">
-                <coordinates>38.8064659,140.013667,0.0</coordinates>
+                <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="995">
@@ -2873,7 +2873,7 @@
                 </Data>
             </ExtendedData>
             <Point id="994">
-                <coordinates>38.9995723,139.9850615,0.0</coordinates>
+                <coordinates>139.9850615,38.9995723,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1003">
@@ -2896,7 +2896,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1002">
-                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+                <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1011">
@@ -2919,7 +2919,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1010">
-                <coordinates>38.9902516,139.9738653,0.0</coordinates>
+                <coordinates>139.9738653,38.9902516,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1019">
@@ -2942,7 +2942,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1018">
-                <coordinates>38.9513686,139.9998517,0.0</coordinates>
+                <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1027">
@@ -2965,7 +2965,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1026">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1035">
@@ -2988,7 +2988,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1034">
-                <coordinates>39.0562101,140.0828731,0.0</coordinates>
+                <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1043">
@@ -3011,7 +3011,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1042">
-                <coordinates>39.0562101,140.0828731,0.0</coordinates>
+                <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1051">
@@ -3034,7 +3034,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1050">
-                <coordinates>38.882186,139.991981,0.0</coordinates>
+                <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1059">
@@ -3057,7 +3057,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1058">
-                <coordinates>38.9478207,140.060217,0.0</coordinates>
+                <coordinates>140.060217,38.9478207,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1067">
@@ -3080,7 +3080,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1066">
-                <coordinates>38.8775504,139.9434201,0.0</coordinates>
+                <coordinates>139.9434201,38.8775504,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1075">
@@ -3103,7 +3103,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1074">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1083">
@@ -3126,7 +3126,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1082">
-                <coordinates>38.9077559,139.9797099,0.0</coordinates>
+                <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1091">
@@ -3149,7 +3149,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1090">
-                <coordinates>38.882186,139.991981,0.0</coordinates>
+                <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1099">
@@ -3172,7 +3172,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1098">
-                <coordinates>38.9478207,140.060217,0.0</coordinates>
+                <coordinates>140.060217,38.9478207,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1107">
@@ -3195,7 +3195,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1106">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1115">
@@ -3218,7 +3218,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1114">
-                <coordinates>38.9766997,139.9926013,0.0</coordinates>
+                <coordinates>139.9926013,38.9766997,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1123">
@@ -3241,7 +3241,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1122">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1131">
@@ -3264,7 +3264,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1130">
-                <coordinates>38.9513686,139.9998517,0.0</coordinates>
+                <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1139">
@@ -3287,7 +3287,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1138">
-                <coordinates>38.963144,139.946048,0.0</coordinates>
+                <coordinates>139.946048,38.963144,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1147">
@@ -3310,7 +3310,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1146">
-                <coordinates>38.9147809,139.8366435,0.0</coordinates>
+                <coordinates>139.8366435,38.9147809,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1155">
@@ -3333,7 +3333,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1154">
-                <coordinates>38.9369814,139.9475834,0.0</coordinates>
+                <coordinates>139.9475834,38.9369814,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1163">
@@ -3356,7 +3356,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1162">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1171">
@@ -3379,7 +3379,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1170">
-                <coordinates>38.9478207,140.060217,0.0</coordinates>
+                <coordinates>140.060217,38.9478207,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1179">
@@ -3402,7 +3402,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1178">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1187">
@@ -3425,7 +3425,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1186">
-                <coordinates>38.8200669,140.0354178,0.0</coordinates>
+                <coordinates>140.0354178,38.8200669,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1195">
@@ -3448,7 +3448,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1194">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1203">
@@ -3471,7 +3471,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1202">
-                <coordinates>38.9533445,139.9345486,0.0</coordinates>
+                <coordinates>139.9345486,38.9533445,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1211">
@@ -3494,7 +3494,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1210">
-                <coordinates>38.9902516,139.9738653,0.0</coordinates>
+                <coordinates>139.9738653,38.9902516,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1219">
@@ -3517,7 +3517,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1218">
-                <coordinates>38.8987154,139.9457416,0.0</coordinates>
+                <coordinates>139.9457416,38.8987154,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1227">
@@ -3540,7 +3540,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1226">
-                <coordinates>38.9038372,139.9615582,0.0</coordinates>
+                <coordinates>139.9615582,38.9038372,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1235">
@@ -3563,7 +3563,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1234">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1243">
@@ -3586,7 +3586,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1242">
-                <coordinates>39.0562101,140.0828731,0.0</coordinates>
+                <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1251">
@@ -3609,7 +3609,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1250">
-                <coordinates>38.8987154,139.9457416,0.0</coordinates>
+                <coordinates>139.9457416,38.8987154,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1259">
@@ -3632,7 +3632,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1258">
-                <coordinates>38.8709457,139.9502599,0.0</coordinates>
+                <coordinates>139.9502599,38.8709457,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1267">
@@ -3655,7 +3655,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1266">
-                <coordinates>38.9995723,139.9850615,0.0</coordinates>
+                <coordinates>139.9850615,38.9995723,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1275">
@@ -3678,7 +3678,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1274">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1283">
@@ -3701,7 +3701,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1282">
-                <coordinates>38.9077559,139.9797099,0.0</coordinates>
+                <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1291">
@@ -3724,7 +3724,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1290">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1299">
@@ -3747,7 +3747,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1298">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1307">
@@ -3770,7 +3770,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1306">
-                <coordinates>38.9766997,139.9926013,0.0</coordinates>
+                <coordinates>139.9926013,38.9766997,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1315">
@@ -3793,7 +3793,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1314">
-                <coordinates>39.0562101,140.0828731,0.0</coordinates>
+                <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1323">
@@ -3816,7 +3816,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1322">
-                <coordinates>38.9766997,139.9926013,0.0</coordinates>
+                <coordinates>139.9926013,38.9766997,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1331">
@@ -3839,7 +3839,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1330">
-                <coordinates>38.86818770000001,140.0611586,0.0</coordinates>
+                <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1339">
@@ -3862,7 +3862,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1338">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1347">
@@ -3885,7 +3885,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1346">
-                <coordinates>38.8438848,139.9674194,0.0</coordinates>
+                <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1355">
@@ -3908,7 +3908,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1354">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1363">
@@ -3931,7 +3931,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1362">
-                <coordinates>38.9765951,139.9191076,0.0</coordinates>
+                <coordinates>139.9191076,38.9765951,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1371">
@@ -3954,7 +3954,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1370">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1379">
@@ -3977,7 +3977,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1378">
-                <coordinates>38.8883726,139.840955,0.0</coordinates>
+                <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1387">
@@ -4000,7 +4000,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1386">
-                <coordinates>38.9740473,139.865612,0.0</coordinates>
+                <coordinates>139.865612,38.9740473,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1395">
@@ -4023,7 +4023,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1394">
-                <coordinates>38.9864674,139.9531615,0.0</coordinates>
+                <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1403">
@@ -4046,7 +4046,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1402">
-                <coordinates>38.9443624,139.938287,0.0</coordinates>
+                <coordinates>139.938287,38.9443624,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1411">
@@ -4069,7 +4069,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1410">
-                <coordinates>38.947599,139.9361187,0.0</coordinates>
+                <coordinates>139.9361187,38.947599,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1419">
@@ -4092,7 +4092,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1418">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1427">
@@ -4115,7 +4115,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1426">
-                <coordinates>38.9513686,139.9998517,0.0</coordinates>
+                <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1435">
@@ -4138,7 +4138,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1434">
-                <coordinates>38.882186,139.991981,0.0</coordinates>
+                <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1443">
@@ -4161,7 +4161,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1442">
-                <coordinates>38.8374094,140.0778169,0.0</coordinates>
+                <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1451">
@@ -4184,7 +4184,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1450">
-                <coordinates>38.9764895,139.9317653,0.0</coordinates>
+                <coordinates>139.9317653,38.9764895,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1459">
@@ -4207,7 +4207,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1458">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1467">
@@ -4230,7 +4230,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1466">
-                <coordinates>38.8064659,140.013667,0.0</coordinates>
+                <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1475">
@@ -4253,7 +4253,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1474">
-                <coordinates>38.8438848,139.9674194,0.0</coordinates>
+                <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1483">
@@ -4276,7 +4276,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1482">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1491">
@@ -4299,7 +4299,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1490">
-                <coordinates>38.8775504,139.9434201,0.0</coordinates>
+                <coordinates>139.9434201,38.8775504,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1499">
@@ -4322,7 +4322,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1498">
-                <coordinates>38.9801234,139.9119005,0.0</coordinates>
+                <coordinates>139.9119005,38.9801234,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1507">
@@ -4345,7 +4345,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1506">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1515">
@@ -4368,7 +4368,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1514">
-                <coordinates>38.9369814,139.9475834,0.0</coordinates>
+                <coordinates>139.9475834,38.9369814,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1523">
@@ -4391,7 +4391,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1522">
-                <coordinates>38.8883726,139.840955,0.0</coordinates>
+                <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1531">
@@ -4414,7 +4414,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1530">
-                <coordinates>38.9513686,139.9998517,0.0</coordinates>
+                <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1539">
@@ -4437,7 +4437,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1538">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1547">
@@ -4460,7 +4460,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1546">
-                <coordinates>38.8883726,139.840955,0.0</coordinates>
+                <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1555">
@@ -4483,7 +4483,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1554">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1563">
@@ -4506,7 +4506,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1562">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1571">
@@ -4529,7 +4529,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1570">
-                <coordinates>38.8883726,139.840955,0.0</coordinates>
+                <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1579">
@@ -4552,7 +4552,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1578">
-                <coordinates>38.8254654,139.9855366,0.0</coordinates>
+                <coordinates>139.9855366,38.8254654,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1587">
@@ -4575,7 +4575,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1586">
-                <coordinates>38.951237,139.9593193,0.0</coordinates>
+                <coordinates>139.9593193,38.951237,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1595">
@@ -4598,7 +4598,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1594">
-                <coordinates>39.0562101,140.0828731,0.0</coordinates>
+                <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1603">
@@ -4621,7 +4621,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1602">
-                <coordinates>38.882186,139.991981,0.0</coordinates>
+                <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1611">
@@ -4644,7 +4644,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1610">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1619">
@@ -4667,7 +4667,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1618">
-                <coordinates>38.8966134,140.084668,0.0</coordinates>
+                <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1627">
@@ -4690,7 +4690,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1626">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1635">
@@ -4713,7 +4713,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1634">
-                <coordinates>38.882186,139.991981,0.0</coordinates>
+                <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1643">
@@ -4736,7 +4736,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1642">
-                <coordinates>38.85059770000001,139.8479394,0.0</coordinates>
+                <coordinates>139.8479394,38.85059770000001,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1651">
@@ -4759,7 +4759,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1650">
-                <coordinates>38.8064659,140.013667,0.0</coordinates>
+                <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1659">
@@ -4782,7 +4782,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1658">
-                <coordinates>38.9196787,139.9456344,0.0</coordinates>
+                <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1667">
@@ -4805,7 +4805,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1666">
-                <coordinates>39.01980959999999,140.0228667,0.0</coordinates>
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1675">
@@ -4828,7 +4828,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1674">
-                <coordinates>38.9298205,140.0277715,0.0</coordinates>
+                <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1683">
@@ -4851,7 +4851,7 @@
                 </Data>
             </ExtendedData>
             <Point id="1682">
-                <coordinates>38.8438848,139.9674194,0.0</coordinates>
+                <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1691">
@@ -4874,7 +4874,30 @@
                 </Data>
             </ExtendedData>
             <Point id="1690">
-                <coordinates>38.8883726,139.840955,0.0</coordinates>
+                <coordinates>139.840955,38.8883726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1699">
+            <name>Point 213</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-12-28</value>
+                </Data>
+                <Data name="Time">
+                    <value>13:00:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>山楯</value>
+                </Data>
+                <Data name="Area">
+                    <value>平田</value>
+                </Data>
+                <Data name="Information">
+                    <value>字南山添地内の民家敷地内においてクマ（1頭）を目撃</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1698">
+                <coordinates>139.9457416,38.8987154,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
