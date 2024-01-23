@@ -21,7 +21,7 @@
                 </Data>
             </ExtendedData>
             <Point id="2">
-                <coordinates>38.9851295,140.0189022,0.0</coordinates>
+                <coordinates>140.0189022,38.9851295,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="11">
@@ -44,7 +44,7 @@
                 </Data>
             </ExtendedData>
             <Point id="10">
-                <coordinates>38.9077559,139.9797099,0.0</coordinates>
+                <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="19">
@@ -67,7 +67,7 @@
                 </Data>
             </ExtendedData>
             <Point id="18">
-                <coordinates>38.9513686,139.9998517,0.0</coordinates>
+                <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
