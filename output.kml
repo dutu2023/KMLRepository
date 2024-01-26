@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="1">
-        <Placemark id="3">
+    <Document id="3">
+        <Placemark id="5">
             <name>Point 1</name>
             <ExtendedData>
                 <Data name="Date">
@@ -20,11 +20,11 @@
                     <value>泥沢地内の民家付近を横断し、西側の山へ移動するクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="2">
+            <Point id="4">
                 <coordinates>140.0189022,38.9851295,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="11">
+        <Placemark id="13">
             <name>Point 2</name>
             <ExtendedData>
                 <Data name="Date">
@@ -43,11 +43,11 @@
                     <value>字滝谷地内の竹林においてタケノコの食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="10">
+            <Point id="12">
                 <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19">
+        <Placemark id="21">
             <name>Point 3</name>
             <ExtendedData>
                 <Data name="Date">
@@ -66,11 +66,11 @@
                     <value>字若神子地内の草田橋北側の河川敷を北西に移動するクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="18">
+            <Point id="20">
                 <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27">
+        <Placemark id="29">
             <name>Point 4</name>
             <ExtendedData>
                 <Data name="Date">
@@ -89,11 +89,11 @@
                     <value>大沼新田地区内の最上川堤防でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="26">
+            <Point id="28">
                 <coordinates>139.9729938,38.8261946,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="35">
+        <Placemark id="37">
             <name>Point 5</name>
             <ExtendedData>
                 <Data name="Date">
@@ -112,11 +112,11 @@
                     <value>字欠之上地内の竹林においてタケノコの食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="34">
+            <Point id="36">
                 <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="43">
+        <Placemark id="45">
             <name>Point 6</name>
             <ExtendedData>
                 <Data name="Date">
@@ -135,11 +135,11 @@
                     <value>福山地区内の竹林においてタケノコの食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="42">
+            <Point id="44">
                 <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="51">
+        <Placemark id="53">
             <name>Point 7</name>
             <ExtendedData>
                 <Data name="Date">
@@ -158,11 +158,11 @@
                     <value>相沢地区内の畑でクマの足跡を発見</value>
                 </Data>
             </ExtendedData>
-            <Point id="50">
+            <Point id="52">
                 <coordinates>139.9434201,38.8775504,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="59">
+        <Placemark id="61">
             <name>Point 8</name>
             <ExtendedData>
                 <Data name="Date">
@@ -181,11 +181,11 @@
                     <value>字稲干場地内の畑でクマの足跡を発見。養蜂箱が破壊され蜂蜜の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="58">
+            <Point id="60">
                 <coordinates>139.7950765,38.8388194,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="67">
+        <Placemark id="69">
             <name>Point 9</name>
             <ExtendedData>
                 <Data name="Date">
@@ -204,11 +204,11 @@
                     <value>字稲干場地内の畑でクマの足跡を発見。養蜂箱が破壊され蜂蜜の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="66">
+            <Point id="68">
                 <coordinates>139.7950765,38.8388194,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="75">
+        <Placemark id="77">
             <name>Point 10</name>
             <ExtendedData>
                 <Data name="Date">
@@ -227,11 +227,11 @@
                     <value>福山地区内でクマ（1頭・体長1.2m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="74">
+            <Point id="76">
                 <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="83">
+        <Placemark id="85">
             <name>Point 11</name>
             <ExtendedData>
                 <Data name="Date">
@@ -250,11 +250,11 @@
                     <value>字西狢山地内の畑に設置してある養蜂箱の破壊され蜂蜜の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="82">
+            <Point id="84">
                 <coordinates>139.8184092,38.8672909,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="91">
+        <Placemark id="93">
             <name>Point 12</name>
             <ExtendedData>
                 <Data name="Date">
@@ -273,11 +273,11 @@
                     <value>字地続山地内の十坂小学校の南方約500mでクマの足跡を発見</value>
                 </Data>
             </ExtendedData>
-            <Point id="90">
+            <Point id="92">
                 <coordinates>139.8184092,38.8672909,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="99">
+        <Placemark id="101">
             <name>Point 13</name>
             <ExtendedData>
                 <Data name="Date">
@@ -296,11 +296,11 @@
                     <value>字地続山地内の畑でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="98">
+            <Point id="100">
                 <coordinates>139.8184092,38.8672909,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="107">
+        <Placemark id="109">
             <name>Point 14</name>
             <ExtendedData>
                 <Data name="Date">
@@ -319,11 +319,11 @@
                     <value>大沼新田と臼ケ沢地区の境の山側へ移動するクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="106">
+            <Point id="108">
                 <coordinates>139.9855366,38.8254654,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="115">
+        <Placemark id="117">
             <name>Point 15</name>
             <ExtendedData>
                 <Data name="Date">
@@ -342,11 +342,11 @@
                     <value>字水上地内の竹林においてタケノコの食害（30本程度）</value>
                 </Data>
             </ExtendedData>
-            <Point id="114">
+            <Point id="116">
                 <coordinates>139.9926013,38.9766997,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="123">
+        <Placemark id="125">
             <name>Point 16</name>
             <ExtendedData>
                 <Data name="Date">
@@ -365,11 +365,11 @@
                     <value>字大峯地内の竹林においてタケノコの食害（7本程度）</value>
                 </Data>
             </ExtendedData>
-            <Point id="122">
+            <Point id="124">
                 <coordinates>140.0189022,38.9851295,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="131">
+        <Placemark id="133">
             <name>Point 17</name>
             <ExtendedData>
                 <Data name="Date">
@@ -388,11 +388,11 @@
                     <value>大沼新田と山寺地区の境の山際を北側へ移動するクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="130">
+            <Point id="132">
                 <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="139">
+        <Placemark id="141">
             <name>Point 18</name>
             <ExtendedData>
                 <Data name="Date">
@@ -411,11 +411,11 @@
                     <value>字赤田沢地内の浄水場付近の道路を横切り、山林へ移動するクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="138">
+            <Point id="140">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="147">
+        <Placemark id="149">
             <name>Point 19</name>
             <ExtendedData>
                 <Data name="Date">
@@ -434,11 +434,11 @@
                     <value>福山地区内の竹林においてタケノコの食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="146">
+            <Point id="148">
                 <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="155">
+        <Placemark id="157">
             <name>Point 20</name>
             <ExtendedData>
                 <Data name="Date">
@@ -457,11 +457,11 @@
                     <value>生石地区から500m先の市道矢流川大平線上を横断するクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="154">
+            <Point id="156">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="163">
+        <Placemark id="165">
             <name>Point 21</name>
             <ExtendedData>
                 <Data name="Date">
@@ -480,11 +480,11 @@
                     <value>字吉ケ沢地内の水田を移動するクマ（1頭・体長0.8m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="162">
+            <Point id="164">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="171">
+        <Placemark id="173">
             <name>Point 22</name>
             <ExtendedData>
                 <Data name="Date">
@@ -503,11 +503,11 @@
                     <value>字湯ノ台地内の宿泊施設周辺でクマ（1頭）を目撃　※5月に数回目撃あり</value>
                 </Data>
             </ExtendedData>
-            <Point id="170">
+            <Point id="172">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="179">
+        <Placemark id="181">
             <name>Point 23</name>
             <ExtendedData>
                 <Data name="Date">
@@ -526,11 +526,11 @@
                     <value>上草津より上200m先の県道鳥海公園青沢線（368号）付近でクマ（1頭・体長2.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="178">
+            <Point id="180">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="187">
+        <Placemark id="189">
             <name>Point 24</name>
             <ExtendedData>
                 <Data name="Date">
@@ -549,11 +549,11 @@
                     <value>中村と本宮地区の間の県道海ケ沢松山線（362号）上を横断し、道路東側の山林へ移動するクマ（1頭・体長0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="186">
+            <Point id="188">
                 <coordinates>139.8879822,38.9587637,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="195">
+        <Placemark id="197">
             <name>Point 25</name>
             <ExtendedData>
                 <Data name="Date">
@@ -572,11 +572,11 @@
                     <value>字大柳地内の民家付近に出没し、温浴施設方向に移動するクマ（1頭・体長0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="194">
+            <Point id="196">
                 <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="203">
+        <Placemark id="205">
             <name>Point 26</name>
             <ExtendedData>
                 <Data name="Date">
@@ -595,11 +595,11 @@
                     <value>字吉ケ沢地内の民家敷地内の倉庫入口に置いている米ぬかの食害。クマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="202">
+            <Point id="204">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="211">
+        <Placemark id="213">
             <name>Point 27</name>
             <ExtendedData>
                 <Data name="Date">
@@ -618,11 +618,11 @@
                     <value>字村前地内の民家の真後ろ約20m先で移動しているクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="210">
+            <Point id="212">
                 <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="219">
+        <Placemark id="221">
             <name>Point 28</name>
             <ExtendedData>
                 <Data name="Date">
@@ -641,11 +641,11 @@
                     <value>落野目地区内の県道酒田鶴岡線（38号（旧国道47号））上を北西へ移動するクマ（1頭・体長0.7m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="218">
+            <Point id="220">
                 <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="227">
+        <Placemark id="229">
             <name>Point 29</name>
             <ExtendedData>
                 <Data name="Date">
@@ -664,11 +664,11 @@
                     <value>字大柳地内の楢橋大柳自治会館の北西100mでクマ（1頭・体長0.8m）を目撃　※24番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="226">
+            <Point id="228">
                 <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="235">
+        <Placemark id="237">
             <name>Point 30</name>
             <ExtendedData>
                 <Data name="Date">
@@ -687,11 +687,11 @@
                     <value>字大柳地内の民家付近でクマ（1頭・体長0.8m）を目撃　※24番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="234">
+            <Point id="236">
                 <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="243">
+        <Placemark id="245">
             <name>Point 31</name>
             <ExtendedData>
                 <Data name="Date">
@@ -710,11 +710,11 @@
                     <value>字大柳地内の民家敷地内の種もみが散乱し、山椒の木にクマの爪痕あり　※24番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="242">
+            <Point id="244">
                 <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="251">
+        <Placemark id="253">
             <name>Point 32</name>
             <ExtendedData>
                 <Data name="Date">
@@ -733,11 +733,11 @@
                     <value>字北山地内の民家敷地内でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="250">
+            <Point id="252">
                 <coordinates>139.9457416,38.8987154,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="259">
+        <Placemark id="261">
             <name>Point 33</name>
             <ExtendedData>
                 <Data name="Date">
@@ -756,11 +756,11 @@
                     <value>字岩花地内でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="258">
+            <Point id="260">
                 <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="267">
+        <Placemark id="269">
             <name>Point 34</name>
             <ExtendedData>
                 <Data name="Date">
@@ -779,11 +779,11 @@
                     <value>新堀地区内の国道47号新堀IC付近でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="266">
+            <Point id="268">
                 <coordinates>139.8800666,38.8762164,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="275">
+        <Placemark id="277">
             <name>Point 35</name>
             <ExtendedData>
                 <Data name="Date">
@@ -802,11 +802,11 @@
                     <value>字滝道地内の御瀧神社前道路より先200m分岐路付近でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="274">
+            <Point id="276">
                 <coordinates>139.9850615,38.9995723,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="283">
+        <Placemark id="285">
             <name>Point 36</name>
             <ExtendedData>
                 <Data name="Date">
@@ -825,11 +825,11 @@
                     <value>字荒町地内の県道田沢下新田線（363号）上を横断し、田圃より山側へ移動するクマ（1頭・体長0.6m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="282">
+            <Point id="284">
                 <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="291">
+        <Placemark id="293">
             <name>Point 37</name>
             <ExtendedData>
                 <Data name="Date">
@@ -848,11 +848,11 @@
                     <value>字四十八坂地内でクマ（1頭・体長1.0m）を目撃。北側の山林へ移動</value>
                 </Data>
             </ExtendedData>
-            <Point id="290">
+            <Point id="292">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="299">
+        <Placemark id="301">
             <name>Point 38</name>
             <ExtendedData>
                 <Data name="Date">
@@ -871,11 +871,11 @@
                     <value>日向コミュニティセンター先200mの県道升田観音寺線（366号）を横断するクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="298">
+            <Point id="300">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="307">
+        <Placemark id="309">
             <name>Point 39</name>
             <ExtendedData>
                 <Data name="Date">
@@ -894,11 +894,11 @@
                     <value>日東道庄内空港ICから北東500m付近の畑でクマ（1頭・体長0.8～1.0m）を目撃→浜中字新林地内の農場→黒森乙から400m付近（18：30）→日東道赤川黒森橋付近で目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="306">
+            <Point id="308">
                 <coordinates>139.8037709,38.8259317,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="315">
+        <Placemark id="317">
             <name>Point 40</name>
             <ExtendedData>
                 <Data name="Date">
@@ -917,11 +917,11 @@
                     <value>浜中地内の保育施設の園畑でクマの足跡を発見</value>
                 </Data>
             </ExtendedData>
-            <Point id="314">
+            <Point id="316">
                 <coordinates>139.7950765,38.8388194,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="323">
+        <Placemark id="325">
             <name>Point 41</name>
             <ExtendedData>
                 <Data name="Date">
@@ -940,11 +940,11 @@
                     <value>落野目地内のスワンパーク付近でクマ（1頭・体長1.0m）を目撃。市内中心部を移動（入船町→山居町→亀ヶ崎→若竹町→堤町）の後、京田川堤防付近の宮野浦地内で目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="322">
+            <Point id="324">
                 <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="331">
+        <Placemark id="333">
             <name>Point 42</name>
             <ExtendedData>
                 <Data name="Date">
@@ -963,11 +963,11 @@
                     <value>山寺地内でクマの足跡を発見　※県直接報告（時刻情報：）</value>
                 </Data>
             </ExtendedData>
-            <Point id="330">
+            <Point id="332">
                 <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="339">
+        <Placemark id="341">
             <name>Point 43</name>
             <ExtendedData>
                 <Data name="Date">
@@ -986,11 +986,11 @@
                     <value>中村地区内の工事現場でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="338">
+            <Point id="340">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="347">
+        <Placemark id="349">
             <name>Point 44</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1009,11 +1009,11 @@
                     <value>字楯山地内の天降神社付近でクマ（1頭・体長1.5m）を目撃→飛澤神社（麓字楯ノ腰）駐車場内で目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="346">
+            <Point id="348">
                 <coordinates>139.9435724,38.970303,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="355">
+        <Placemark id="357">
             <name>Point 45</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1032,11 +1032,11 @@
                     <value>市道升田大台野線の数河ノ池入口付近でクマ（1頭・体長1.0m）目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="354">
+            <Point id="356">
                 <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="363">
+        <Placemark id="365">
             <name>Point 46</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1055,11 +1055,11 @@
                     <value>草津地区内の県道鳥海公園青沢線（368号）でクマ（1頭・体長1.5m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="362">
+            <Point id="364">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="371">
+        <Placemark id="373">
             <name>Point 47</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1078,11 +1078,11 @@
                     <value>字大柳地内の民家敷地内でクマ（1頭・体長0.5m）を目撃　※24番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="370">
+            <Point id="372">
                 <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="379">
+        <Placemark id="381">
             <name>Point 48</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1101,11 +1101,11 @@
                     <value>東北電力日向川発電所北側の市道下黒川線付近でクマ（1頭・体長1.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="378">
+            <Point id="380">
                 <coordinates>139.9850615,38.9995723,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="387">
+        <Placemark id="389">
             <name>Point 49</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1124,11 +1124,11 @@
                     <value>字湯ノ台地内の民家付近でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="386">
+            <Point id="388">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="395">
+        <Placemark id="397">
             <name>Point 50</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1147,11 +1147,11 @@
                     <value>字中里地内の民家付近でクマ（1頭）を目撃　※6月に数回目撃あり</value>
                 </Data>
             </ExtendedData>
-            <Point id="394">
+            <Point id="396">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="403">
+        <Placemark id="405">
             <name>Point 51</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1170,11 +1170,11 @@
                     <value>字吉ケ沢地内の民家付近でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="402">
+            <Point id="404">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="411">
+        <Placemark id="413">
             <name>Point 52</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1193,11 +1193,11 @@
                     <value>字吉ケ沢地内の民家付近でクマ（1頭・体長0.8m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="410">
+            <Point id="412">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="419">
+        <Placemark id="421">
             <name>Point 53</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1216,11 +1216,11 @@
                     <value>市道大台野高原3号線の字湯ノ台地区の宿泊施設手前路上を横断するクマ（1頭・体長1.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="418">
+            <Point id="420">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="427">
+        <Placemark id="429">
             <name>Point 54</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1239,11 +1239,11 @@
                     <value>字山添地内の墓地脇の道路でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="426">
+            <Point id="428">
                 <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="435">
+        <Placemark id="437">
             <name>Point 55</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1262,11 +1262,11 @@
                     <value>字本宮地内の県道海ケ沢松山線（362号）を横断し、田圃より山側へ移動するクマ（1頭・体長0.6m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="434">
+            <Point id="436">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="443">
+        <Placemark id="445">
             <name>Point 56</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1285,11 +1285,11 @@
                     <value>字家ノ前地内の荒瀬川河川敷でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="442">
+            <Point id="444">
                 <coordinates>140.0938351,38.975717,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="451">
+        <Placemark id="453">
             <name>Point 57</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1308,11 +1308,11 @@
                     <value>楯山川沿いの畑（東部林道付近）でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="450">
+            <Point id="452">
                 <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="459">
+        <Placemark id="461">
             <name>Point 58</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1331,11 +1331,11 @@
                     <value>字小平地内畜産団地の牛舎内において、クマ（1頭・体長1.3m）による牛の配合飼料の食害　※1週間前から出没形跡あり</value>
                 </Data>
             </ExtendedData>
-            <Point id="458">
+            <Point id="460">
                 <coordinates>139.9593193,38.951237,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="467">
+        <Placemark id="469">
             <name>Point 59</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1354,11 +1354,11 @@
                     <value>字中村地内の県道海ケ沢松山線（362号）の北俣橋上で、クマ（2頭・体長1.0m、0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="466">
+            <Point id="468">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="475">
+        <Placemark id="477">
             <name>Point 60</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1377,11 +1377,11 @@
                     <value>字道ノ上地内の民家付近（寺田公民館南側100m）でクマ（1頭・体長1.1m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="474">
+            <Point id="476">
                 <coordinates>139.9345486,38.9533445,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="483">
+        <Placemark id="485">
             <name>Point 61</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1400,11 +1400,11 @@
                     <value>字下川原地内の升田弥生橋200m先の田圃でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="482">
+            <Point id="484">
                 <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="491">
+        <Placemark id="493">
             <name>Point 62</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1423,11 +1423,11 @@
                     <value>字中道地内の民家敷地内でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="490">
+            <Point id="492">
                 <coordinates>139.9738653,38.9902516,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="499">
+        <Placemark id="501">
             <name>Point 63</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1446,11 +1446,11 @@
                     <value>臼ケ沢地内の沢でクマ（1頭・体長0.2m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="498">
+            <Point id="500">
                 <coordinates>139.9855366,38.8254654,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="507">
+        <Placemark id="509">
             <name>Point 64</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1469,11 +1469,11 @@
                     <value>字中里地内の民家敷地内でクマ（1頭・体長1.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="506">
+            <Point id="508">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="515">
+        <Placemark id="517">
             <name>Point 65</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1492,11 +1492,11 @@
                     <value>字糧畑地内の庄内空港緩衝緑地パークセンター付近でクマ（1頭・体長0.8m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="514">
+            <Point id="516">
                 <coordinates>139.7950765,38.8388194,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="523">
+        <Placemark id="525">
             <name>Point 66</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1515,11 +1515,11 @@
                     <value>字円道地内の民家敷地へ移動するクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="522">
+            <Point id="524">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="531">
+        <Placemark id="533">
             <name>Point 67</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1538,11 +1538,11 @@
                     <value>字西沢地内の金谷沢川を北側に移動するクマ（1頭・体長0.8m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="530">
+            <Point id="532">
                 <coordinates>139.9615582,38.9038372,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="539">
+        <Placemark id="541">
             <name>Point 68</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1561,11 +1561,11 @@
                     <value>字滝谷地内の民家敷地でクマ（1頭）を目撃　※複数回の目撃情報あり（その後、字吉ケ沢地内でも目撃）</value>
                 </Data>
             </ExtendedData>
-            <Point id="538">
+            <Point id="540">
                 <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="547">
+        <Placemark id="549">
             <name>Point 69</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1584,11 +1584,11 @@
                     <value>字向山地内の前の川橋手前300mの県道鳥海公園青沢線（368号）付近でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="546">
+            <Point id="548">
                 <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="555">
+        <Placemark id="557">
             <name>Point 70</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1607,11 +1607,11 @@
                     <value>字濁沢地内の民家裏山のすももの木の実の食害（20個程度）</value>
                 </Data>
             </ExtendedData>
-            <Point id="554">
+            <Point id="556">
                 <coordinates>139.9562415,38.9688476,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="563">
+        <Placemark id="565">
             <name>Point 71</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1630,11 +1630,11 @@
                     <value>字小平地内畜産団地の牛舎内において牛の配合飼料の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="562">
+            <Point id="564">
                 <coordinates>139.9593193,38.951237,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="571">
+        <Placemark id="573">
             <name>Point 72</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1653,11 +1653,11 @@
                     <value>字内山地内の福山三神社前の南側山林でクマ（1頭・体長0.7m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="570">
+            <Point id="572">
                 <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="579">
+        <Placemark id="581">
             <name>Point 73</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1676,11 +1676,11 @@
                     <value>字麓山地内の山根公会堂より250m南東付近でクマ（1頭・体長0.7m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="578">
+            <Point id="580">
                 <coordinates>139.946048,38.963144,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="587">
+        <Placemark id="589">
             <name>Point 74</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1699,11 +1699,11 @@
                     <value>字吉ケ沢地内の西向山付近墓地でクマ（2頭・親子）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="586">
+            <Point id="588">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="595">
+        <Placemark id="597">
             <name>Point 75</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1722,11 +1722,11 @@
                     <value>字柳沢地内畜産団地の防護柵でクマによると考えられる破損を確認。足跡らしい形跡も確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="594">
+            <Point id="596">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="603">
+        <Placemark id="605">
             <name>Point 76</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1745,11 +1745,11 @@
                     <value>字柳沢地内畜産団地の畜舎でクマによると考えられる破損を確認。足跡も確認　※72番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="602">
+            <Point id="604">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="611">
+        <Placemark id="613">
             <name>Point 77</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1768,11 +1768,11 @@
                     <value>字柳沢地内畜産団地の防護柵等でクマによると考えられる破損を確認。足跡も確認　※72番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="610">
+            <Point id="612">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="619">
+        <Placemark id="621">
             <name>Point 78</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1791,11 +1791,11 @@
                     <value>字中里地内の民家敷地内でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="618">
+            <Point id="620">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="627">
+        <Placemark id="629">
             <name>Point 79</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1814,11 +1814,11 @@
                     <value>字柳沢地内畜産団地の畜舎等でクマによると考えられる破損を確認。足跡らしき形跡も確認　※72番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="626">
+            <Point id="628">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="635">
+        <Placemark id="637">
             <name>Point 80</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1837,11 +1837,11 @@
                     <value>字寺沢地内の畑（寺沢自治会館の東側）においてカボチャの食害（6個）</value>
                 </Data>
             </ExtendedData>
-            <Point id="634">
+            <Point id="636">
                 <coordinates>139.9978142,38.844598,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="643">
+        <Placemark id="645">
             <name>Point 81</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1860,11 +1860,11 @@
                     <value>字三栗谷地内の市道三栗谷線の路上でクマの足跡を発見（約20cm）（時刻情報：夕方）</value>
                 </Data>
             </ExtendedData>
-            <Point id="642">
+            <Point id="644">
                 <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="651">
+        <Placemark id="653">
             <name>Point 82</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1883,11 +1883,11 @@
                     <value>字柳沢地内畜産団地の畜舎等でクマによると考えられる破損を確認　※72番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="650">
+            <Point id="652">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="659">
+        <Placemark id="661">
             <name>Point 83</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1906,11 +1906,11 @@
                     <value>字藤平台地内の牧場の飼料の食害（ホールクロップサイレージ300本、ソフトグレインサイレージ20本程度）　※5月上旬頃から被害が発生していた模様</value>
                 </Data>
             </ExtendedData>
-            <Point id="658">
+            <Point id="660">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="667">
+        <Placemark id="669">
             <name>Point 84</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1929,11 +1929,11 @@
                     <value>泥沢公会堂手前の畑地でクマ（1頭・体長1.2m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="666">
+            <Point id="668">
                 <coordinates>140.0189022,38.9851295,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="675">
+        <Placemark id="677">
             <name>Point 85</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1952,11 +1952,11 @@
                     <value>字中里地内の沢沿いの雑種地でクマ（1頭・体長0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="674">
+            <Point id="676">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="683">
+        <Placemark id="685">
             <name>Point 86</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1975,11 +1975,11 @@
                     <value>字吉ケ沢地内の民家敷地内でクマ（1頭・体長0.8m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="682">
+            <Point id="684">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="691">
+        <Placemark id="693">
             <name>Point 87</name>
             <ExtendedData>
                 <Data name="Date">
@@ -1998,11 +1998,11 @@
                     <value>字湯ノ台地内の宿泊施設付近でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="690">
+            <Point id="692">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="699">
+        <Placemark id="701">
             <name>Point 88</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2021,11 +2021,11 @@
                     <value>字柳沢地内畜産団地の畜舎等でクマによると考えられる破損を確認　※72番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="698">
+            <Point id="700">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="707">
+        <Placemark id="709">
             <name>Point 89</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2044,11 +2044,11 @@
                     <value>字下中村地内の民家敷地内の鶏小屋でクマ（1頭）を目撃。同日20：00頃にも再度出没し、同鶏小屋に侵入</value>
                 </Data>
             </ExtendedData>
-            <Point id="706">
+            <Point id="708">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="715">
+        <Placemark id="717">
             <name>Point 90</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2067,11 +2067,11 @@
                     <value>字滝沢地内の三栗谷橋南東200m先付近でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="714">
+            <Point id="716">
                 <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="723">
+        <Placemark id="725">
             <name>Point 91</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2090,11 +2090,11 @@
                     <value>臼ケ沢地内の畑でクマの足跡とカボチャの食害（10個）</value>
                 </Data>
             </ExtendedData>
-            <Point id="722">
+            <Point id="724">
                 <coordinates>139.9855366,38.8254654,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="731">
+        <Placemark id="733">
             <name>Point 92</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2113,11 +2113,11 @@
                     <value>南新屋敷地内の民家裏の畑でクマの足跡を発見。カボチャの食害（8個程度）（時刻情報：早朝）</value>
                 </Data>
             </ExtendedData>
-            <Point id="730">
+            <Point id="732">
                 <coordinates>139.9621203,38.8528788,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="739">
+        <Placemark id="741">
             <name>Point 93</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2136,11 +2136,11 @@
                     <value>字柳沢地内畜産団地の畜舎等でクマによると考えられる破損を確認　※72番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="738">
+            <Point id="740">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="747">
+        <Placemark id="749">
             <name>Point 94</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2159,11 +2159,11 @@
                     <value>字円能寺地内のビニルハウス2棟の破損とブドウの食害（12房）。20：25頃、同ハウス内でクマ（1頭・体長1.0m）を目撃。翌2日6：40頃にも同ハウス内でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="746">
+            <Point id="748">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="755">
+        <Placemark id="757">
             <name>Point 95</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2182,11 +2182,11 @@
                     <value>字前山地内の牛舎において飼料の食害（ホールクロップサイレージ40本）</value>
                 </Data>
             </ExtendedData>
-            <Point id="754">
+            <Point id="756">
                 <coordinates>139.9562415,38.9688476,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="763">
+        <Placemark id="765">
             <name>Point 96</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2205,11 +2205,11 @@
                     <value>字鹿島地内の県道海ケ沢松山線（362号）上で、親子クマ（3頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="762">
+            <Point id="764">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="771">
+        <Placemark id="773">
             <name>Point 97</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2228,11 +2228,11 @@
                     <value>字田沢新田地内の県道田沢下新田線（363号）付近の田圃でクマ（1頭・体長0.6m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="770">
+            <Point id="772">
                 <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="779">
+        <Placemark id="781">
             <name>Point 98</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2251,11 +2251,11 @@
                     <value>字円能寺地内のビニルハウス内に侵入するクマ（1頭・体長1.0m）を目撃。ブドウの食害（30房）　※90番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="778">
+            <Point id="780">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="787">
+        <Placemark id="789">
             <name>Point 99</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2274,11 +2274,11 @@
                     <value>字坂本地内の畜舎において飼料の食害（デントコーンサイレージ3個、サイレージラップ）</value>
                 </Data>
             </ExtendedData>
-            <Point id="786">
+            <Point id="788">
                 <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="795">
+        <Placemark id="797">
             <name>Point 100</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2297,11 +2297,11 @@
                     <value>成興野地内の県道大沼新田清川停車場線（361号）上でトラックの運転手がクマ（1頭・体長1.2m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="794">
+            <Point id="796">
                 <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="803">
+        <Placemark id="805">
             <name>Point 101</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2320,11 +2320,11 @@
                     <value>字坂本地内の畜舎において飼料の食害（デントコーンサイレージ2個）　※96番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="802">
+            <Point id="804">
                 <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="811">
+        <Placemark id="813">
             <name>Point 102</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2343,11 +2343,11 @@
                     <value>南新屋敷地内の民家裏の畑においてクマの足跡を発見。カボチャの食害（10個程度）→松山多目的運動公園付近でも足跡を発見　※89番関連（時刻情報：早朝）</value>
                 </Data>
             </ExtendedData>
-            <Point id="810">
+            <Point id="812">
                 <coordinates>139.9621203,38.8528788,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="819">
+        <Placemark id="821">
             <name>Point 103</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2366,11 +2366,11 @@
                     <value>字吉ケ沢地内の共同墓地付近でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="818">
+            <Point id="820">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="827">
+        <Placemark id="829">
             <name>Point 104</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2389,11 +2389,11 @@
                     <value>字坂本地内の畜舎において飼料の食害（サイレージ）　※96番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="826">
+            <Point id="828">
                 <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="835">
+        <Placemark id="837">
             <name>Point 105</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2412,11 +2412,11 @@
                     <value>字須郷の市道白糸線上でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="834">
+            <Point id="836">
                 <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="843">
+        <Placemark id="845">
             <name>Point 106</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2435,11 +2435,11 @@
                     <value>県道鳥海公園青沢線（368号）の湯ノ台地区のT字路付近でクマ（1頭・体長1.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="842">
+            <Point id="844">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="851">
+        <Placemark id="853">
             <name>Point 107</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2458,11 +2458,11 @@
                     <value>字北向地内の墓地付近の水田においてクマによる稲の踏みつけと稲穂の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="850">
+            <Point id="852">
                 <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="859">
+        <Placemark id="861">
             <name>Point 108</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2481,11 +2481,11 @@
                     <value>字道ノ上地内の民家敷地東側50m先でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="858">
+            <Point id="860">
                 <coordinates>139.9345486,38.9533445,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="867">
+        <Placemark id="869">
             <name>Point 109</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2504,11 +2504,11 @@
                     <value>字坂本地内の畜舎においてクマによると考えられる壁の破損を確認　※96番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="866">
+            <Point id="868">
                 <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="875">
+        <Placemark id="877">
             <name>Point 110</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2527,11 +2527,11 @@
                     <value>字藤平台地内の牧場の飼料の食害（ホールクロップサイレージ400本、ソフトグレインサイレージ20本、デントコーンサイレージ38本程度）　※80番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="874">
+            <Point id="876">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="883">
+        <Placemark id="885">
             <name>Point 111</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2550,11 +2550,11 @@
                     <value>字向山下地内の水田においてクマによる稲の踏みつけと飼料用米の稲穂の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="882">
+            <Point id="884">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="891">
+        <Placemark id="893">
             <name>Point 112</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2573,11 +2573,11 @@
                     <value>字須郷の市道白糸線上でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="890">
+            <Point id="892">
                 <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="899">
+        <Placemark id="901">
             <name>Point 113</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2596,11 +2596,11 @@
                     <value>字宮ノ前地内の三神社付近でクマ（1頭・体長1.0m）と車が接触。人的被害なし</value>
                 </Data>
             </ExtendedData>
-            <Point id="898">
+            <Point id="900">
                 <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="907">
+        <Placemark id="909">
             <name>Point 114</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2619,11 +2619,11 @@
                     <value>字山添地内の水田においてクマによる稲の倒伏被害と糞を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="906">
+            <Point id="908">
                 <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="915">
+        <Placemark id="917">
             <name>Point 115</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2642,11 +2642,11 @@
                     <value>字大俣地内の水田においてクマによる稲の倒伏被害。クマの通り道を数か所確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="914">
+            <Point id="916">
                 <coordinates>140.0938351,38.975717,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="923">
+        <Placemark id="925">
             <name>Point 116</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2665,11 +2665,11 @@
                     <value>字上中村地内の自治会館においてクマによる外壁の破損を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="922">
+            <Point id="924">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="931">
+        <Placemark id="933">
             <name>Point 117</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2688,11 +2688,11 @@
                     <value>字藤平台地内の牧場（ハッチ舎）においてクマ（1頭・体長1.0m）を目撃。8/22飼料の食害（ホールクロップサイレージ10本、デントコーン畑）、クマの足跡・糞を確認。8/23飼料の食害（子牛用粉ミルクソフト、子牛用飼料）と飼料関連機械の破損を確認　※80番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="930">
+            <Point id="932">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="939">
+        <Placemark id="941">
             <name>Point 118</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2711,11 +2711,11 @@
                     <value>字前山地内の畜舎において飼料の食害（ホールクロップサイレージ10個）</value>
                 </Data>
             </ExtendedData>
-            <Point id="938">
+            <Point id="940">
                 <coordinates>139.9562415,38.9688476,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="947">
+        <Placemark id="949">
             <name>Point 119</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2734,11 +2734,11 @@
                     <value>小林～地見興屋間の県道田沢下新田線（363号）上でクマ（1頭）を目撃。27日17：00にも同付近で目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="946">
+            <Point id="948">
                 <coordinates>140.0354178,38.8200669,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="955">
+        <Placemark id="957">
             <name>Point 120</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2757,11 +2757,11 @@
                     <value>字湯ノ台地内の県道鳥海公園青沢線（368号）上でクマ（1頭）を目撃。同日5：45頃、鳥海山登山道あざみ坂手前200m付近でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="954">
+            <Point id="956">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="963">
+        <Placemark id="965">
             <name>Point 121</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2780,11 +2780,11 @@
                     <value>成興野地内でクマ（1頭・体長1.3m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="962">
+            <Point id="964">
                 <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="971">
+        <Placemark id="973">
             <name>Point 122</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2803,11 +2803,11 @@
                     <value>字小平地内畜産団地においてクマによる配合飼料の食害と牛舎裏側ベニヤ板等の破損を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="970">
+            <Point id="972">
                 <coordinates>139.9593193,38.951237,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="979">
+        <Placemark id="981">
             <name>Point 123</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2826,11 +2826,11 @@
                     <value>楢橋地内の相沢川大石橋付近でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="978">
+            <Point id="980">
                 <coordinates>139.9478787,38.8946859,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="987">
+        <Placemark id="989">
             <name>Point 124</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2849,11 +2849,11 @@
                     <value>字須郷地内の市道白糸線上でクマ（1頭・体長1.0m）を目撃。10日19:00頃に清川橋付近で目撃（国道47号と成興野地区を行き来している模様）</value>
                 </Data>
             </ExtendedData>
-            <Point id="986">
+            <Point id="988">
                 <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="995">
+        <Placemark id="997">
             <name>Point 125</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2872,11 +2872,11 @@
                     <value>字内川向地内の農道でクマ（2頭）を目撃。12日18:00頃に字滝ノ上地内の御瀧神社付近でクマ（2頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="994">
+            <Point id="996">
                 <coordinates>139.9850615,38.9995723,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1003">
+        <Placemark id="1005">
             <name>Point 126</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2895,11 +2895,11 @@
                     <value>字向山地内の日向川河川敷付近でクマの足跡を発見</value>
                 </Data>
             </ExtendedData>
-            <Point id="1002">
+            <Point id="1004">
                 <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1011">
+        <Placemark id="1013">
             <name>Point 127</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2918,11 +2918,11 @@
                     <value>字村ノ下地内の日向川沿いの栗林において栗の食害（枝10本が折られる）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1010">
+            <Point id="1012">
                 <coordinates>139.9738653,38.9902516,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1019">
+        <Placemark id="1021">
             <name>Point 128</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2941,11 +2941,11 @@
                     <value>字前田地内の荒瀬川沿いのクルミの木においてクルミの食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1018">
+            <Point id="1020">
                 <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1027">
+        <Placemark id="1029">
             <name>Point 129</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2964,11 +2964,11 @@
                     <value>本宮地区内の畑地において栗の食害（16日～18日にかけ3箇所で発生）（時刻情報：－）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1026">
+            <Point id="1028">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1035">
+        <Placemark id="1037">
             <name>Point 130</name>
             <ExtendedData>
                 <Data name="Date">
@@ -2987,11 +2987,11 @@
                     <value>字西通り地内の日向川沿いの栗の木において栗の食害。25日6:00頃、字砂田地内で栗の木において栗の食害。周辺で糞、爪痕を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="1034">
+            <Point id="1036">
                 <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1043">
+        <Placemark id="1045">
             <name>Point 131</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3010,11 +3010,11 @@
                     <value>本船ケ坂区内の前の川沿いの栗の木において栗の食害（枝3本が折られる）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1042">
+            <Point id="1044">
                 <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1051">
+        <Placemark id="1053">
             <name>Point 132</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3033,11 +3033,11 @@
                     <value>字長根地内の畑の栗の木において栗の食害（枝4本が折られる）（時刻情報：－）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1050">
+            <Point id="1052">
                 <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1059">
+        <Placemark id="1061">
             <name>Point 133</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3056,11 +3056,11 @@
                     <value>字内郷地内の栗の木において栗の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1058">
+            <Point id="1060">
                 <coordinates>140.060217,38.9478207,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1067">
+        <Placemark id="1069">
             <name>Point 134</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3079,11 +3079,11 @@
                     <value>字北森地内の市道茗ケ沢相沢線上でクマ（3頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1066">
+            <Point id="1068">
                 <coordinates>139.9434201,38.8775504,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1075">
+        <Placemark id="1077">
             <name>Point 135</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3102,11 +3102,11 @@
                     <value>字大畑山地内の民家敷地内の栗の木でクマ（1頭）を目撃。栗の食害あり。同日16:50頃、同集落内でクマ（1頭・体長0.7m）を目撃し、山中へ移動。翌日8:00頃、同木でクマ（1頭）の目撃あり</value>
                 </Data>
             </ExtendedData>
-            <Point id="1074">
+            <Point id="1076">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1083">
+        <Placemark id="1085">
             <name>Point 136</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3125,11 +3125,11 @@
                     <value>山谷地区内の山中の栗の木において栗の食害。周辺で青い柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1082">
+            <Point id="1084">
                 <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1091">
+        <Placemark id="1093">
             <name>Point 137</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3148,11 +3148,11 @@
                     <value>字長田地内の田でクマ（1頭・体長1.3m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1090">
+            <Point id="1092">
                 <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1099">
+        <Placemark id="1101">
             <name>Point 138</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3171,11 +3171,11 @@
                     <value>字三保六地内の栗の木において栗の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1098">
+            <Point id="1100">
                 <coordinates>140.060217,38.9478207,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1107">
+        <Placemark id="1109">
             <name>Point 139</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3194,11 +3194,11 @@
                     <value>字大畑山地内の民家敷地内の栗の木においてクマ（1頭・体長0.5m）を目撃　※130番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="1106">
+            <Point id="1108">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1115">
+        <Placemark id="1117">
             <name>Point 140</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3217,11 +3217,11 @@
                     <value>字二夕子地内の国道344号線上でクマ（2頭・体長0.7m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1114">
+            <Point id="1116">
                 <coordinates>139.9926013,38.9766997,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1123">
+        <Placemark id="1125">
             <name>Point 141</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3240,11 +3240,11 @@
                     <value>字大畑山地内の民家敷地内でクマ（1頭・体長1.0m）が留まっている形跡がある　※130番関連</value>
                 </Data>
             </ExtendedData>
-            <Point id="1122">
+            <Point id="1124">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1131">
+        <Placemark id="1133">
             <name>Point 142</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3263,11 +3263,11 @@
                     <value>字小平沢地内の周辺道路でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1130">
+            <Point id="1132">
                 <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1139">
+        <Placemark id="1141">
             <name>Point 143</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3286,11 +3286,11 @@
                     <value>字楯ノ腰地内の柿の木において柿の食害（柿50個）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1138">
+            <Point id="1140">
                 <coordinates>139.946048,38.963144,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1147">
+        <Placemark id="1149">
             <name>Point 144</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3309,11 +3309,11 @@
                     <value>字下ゴロ地内でクマ（3頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1146">
+            <Point id="1148">
                 <coordinates>139.8366435,38.9147809,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1155">
+        <Placemark id="1157">
             <name>Point 145</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3332,11 +3332,11 @@
                     <value>北沢地内で（1頭・体長1.0m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="1154">
+            <Point id="1156">
                 <coordinates>139.9475834,38.9369814,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1163">
+        <Placemark id="1165">
             <name>Point 146</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3355,11 +3355,11 @@
                     <value>字藤平台地内の牧場（飼料庫）において飼料の食害（粕19袋）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1162">
+            <Point id="1164">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1171">
+        <Placemark id="1173">
             <name>Point 147</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3378,11 +3378,11 @@
                     <value>字三保六地内の民家倉庫内において玄米の食害（10袋以上）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1170">
+            <Point id="1172">
                 <coordinates>140.060217,38.9478207,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1179">
+        <Placemark id="1181">
             <name>Point 148</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3401,11 +3401,11 @@
                     <value>字笹山地内の水田においてクマ（1頭・体長1.2m）による稲の倒伏被害を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="1178">
+            <Point id="1180">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1187">
+        <Placemark id="1189">
             <name>Point 149</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3424,11 +3424,11 @@
                     <value>字杉沢地内にある民家敷地内において栗等の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1186">
+            <Point id="1188">
                 <coordinates>140.0354178,38.8200669,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1195">
+        <Placemark id="1197">
             <name>Point 150</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3447,11 +3447,11 @@
                     <value>字本宮地内の民家敷地内において柿の食害（3本）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1194">
+            <Point id="1196">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1203">
+        <Placemark id="1205">
             <name>Point 151</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3470,11 +3470,11 @@
                     <value>字道ノ上地内でクマ（3頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1202">
+            <Point id="1204">
                 <coordinates>139.9345486,38.9533445,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1211">
+        <Placemark id="1213">
             <name>Point 152</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3493,11 +3493,11 @@
                     <value>字中道地内の民家敷地内においてクマ（3頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1210">
+            <Point id="1212">
                 <coordinates>139.9738653,38.9902516,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1219">
+        <Placemark id="1221">
             <name>Point 153</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3516,11 +3516,11 @@
                     <value>字南山添地内にある民家倉庫内の扉にクマの爪痕を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="1218">
+            <Point id="1220">
                 <coordinates>139.9457416,38.8987154,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1227">
+        <Placemark id="1229">
             <name>Point 154</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3539,11 +3539,11 @@
                     <value>字金谷地内にある体育施設のカヌー置き場付近の道路でクマ（1頭・体長1.0m）と走行中の車両が衝突</value>
                 </Data>
             </ExtendedData>
-            <Point id="1226">
+            <Point id="1228">
                 <coordinates>139.9615582,38.9038372,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1235">
+        <Placemark id="1237">
             <name>Point 155</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3562,11 +3562,11 @@
                     <value>字藤平台地内の牧場（飼料庫）において飼料の食害（ホールクロップサイレージ5本、子牛用ビタミン剤2袋、子牛用配合飼料2袋）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1234">
+            <Point id="1236">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1243">
+        <Placemark id="1245">
             <name>Point 156</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3585,11 +3585,11 @@
                     <value>字大台野地内の作業小屋においてクマによる外壁の破損を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="1242">
+            <Point id="1244">
                 <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1251">
+        <Placemark id="1253">
             <name>Point 157</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3608,11 +3608,11 @@
                     <value>字南山添地内の民家敷地内において栗の食害。付近でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1250">
+            <Point id="1252">
                 <coordinates>139.9457416,38.8987154,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1259">
+        <Placemark id="1261">
             <name>Point 158</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3631,11 +3631,11 @@
                     <value>字宅地地内の民家敷地内でクマ（3頭）を目撃。大豆の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1258">
+            <Point id="1260">
                 <coordinates>139.9502599,38.8709457,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1267">
+        <Placemark id="1269">
             <name>Point 159</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3654,11 +3654,11 @@
                     <value>字楯坂地内の民家敷地内のハチの巣がクマに荒らされた形跡を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="1266">
+            <Point id="1268">
                 <coordinates>139.9850615,38.9995723,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1275">
+        <Placemark id="1277">
             <name>Point 160</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3677,11 +3677,11 @@
                     <value>字家ノ下地内の日向川付近で栗の食害（時刻情報：－）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1274">
+            <Point id="1276">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1283">
+        <Placemark id="1285">
             <name>Point 161</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3700,11 +3700,11 @@
                     <value>字寺田地内の圃場においてクマによる大豆の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1282">
+            <Point id="1284">
                 <coordinates>139.9797099,38.9077559,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1291">
+        <Placemark id="1293">
             <name>Point 162</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3723,11 +3723,11 @@
                     <value>字滝野沢地内の民家敷地内の倉庫において玄米の食害（1袋）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1290">
+            <Point id="1292">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1299">
+        <Placemark id="1301">
             <name>Point 163</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3746,11 +3746,11 @@
                     <value>字鷹待山地内の果樹園において柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1298">
+            <Point id="1300">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1307">
+        <Placemark id="1309">
             <name>Point 164</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3769,11 +3769,11 @@
                     <value>字二タ子地内の地区内道路でクマ（3頭・体長1.0m、体長0.5m）を目撃。18日に民家敷地内において柿の食害。23日に同敷地内で柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1306">
+            <Point id="1308">
                 <coordinates>139.9926013,38.9766997,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1315">
+        <Placemark id="1317">
             <name>Point 165</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3792,11 +3792,11 @@
                     <value>字大台野地内の民家敷地内において栗の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1314">
+            <Point id="1316">
                 <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1323">
+        <Placemark id="1325">
             <name>Point 166</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3815,11 +3815,11 @@
                     <value>字若神子地内の国道344号線においてクマ（3頭・体長1.0m、体長0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1322">
+            <Point id="1324">
                 <coordinates>139.9926013,38.9766997,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1331">
+        <Placemark id="1333">
             <name>Point 167</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3838,11 +3838,11 @@
                     <value>字村前地内の民家敷地内において栗の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1330">
+            <Point id="1332">
                 <coordinates>140.0611586,38.86818770000001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1339">
+        <Placemark id="1341">
             <name>Point 168</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3861,11 +3861,11 @@
                     <value>本宮、中村地区の中間の県道海ケ沢松山線（362号）上を横断するクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1338">
+            <Point id="1340">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1347">
+        <Placemark id="1349">
             <name>Point 169</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3884,11 +3884,11 @@
                     <value>字妙香沢地内において柿の食害（時刻情報：早朝）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1346">
+            <Point id="1348">
                 <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1355">
+        <Placemark id="1357">
             <name>Point 170</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3907,11 +3907,11 @@
                     <value>生石地内においてクマ（1頭・体長1.3m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="1354">
+            <Point id="1356">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1363">
+        <Placemark id="1365">
             <name>Point 171</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3930,11 +3930,11 @@
                     <value>字村東地内の民家敷地裏でクマ（1頭）を目撃。23日に民家敷地内において柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1362">
+            <Point id="1364">
                 <coordinates>139.9191076,38.9765951,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1371">
+        <Placemark id="1373">
             <name>Point 172</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3953,11 +3953,11 @@
                     <value>字備畑地内の民家敷地内においてクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1370">
+            <Point id="1372">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1379">
+        <Placemark id="1381">
             <name>Point 173</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3976,11 +3976,11 @@
                     <value>字刈分地内にある所有者不明の柿の木の下においてクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1378">
+            <Point id="1380">
                 <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1387">
+        <Placemark id="1389">
             <name>Point 174</name>
             <ExtendedData>
                 <Data name="Date">
@@ -3999,11 +3999,11 @@
                     <value>字沖田地内のJA庄内みどり西荒瀬カントリーエレベーター付近においてクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1386">
+            <Point id="1388">
                 <coordinates>139.865612,38.9740473,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1395">
+        <Placemark id="1397">
             <name>Point 175</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4022,11 +4022,11 @@
                     <value>字内山地内の柿畑においてクマ（3頭）を目撃。柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1394">
+            <Point id="1396">
                 <coordinates>139.9531615,38.9864674,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1403">
+        <Placemark id="1405">
             <name>Point 176</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4045,11 +4045,11 @@
                     <value>字大道東地内の農道においてクマ（4頭・体長1.0m、体長0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1402">
+            <Point id="1404">
                 <coordinates>139.938287,38.9443624,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1411">
+        <Placemark id="1413">
             <name>Point 177</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4068,11 +4068,11 @@
                     <value>字盛沢地内の民家裏の柿の木においてクマ（2頭・体長1.0m）を目撃。柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1410">
+            <Point id="1412">
                 <coordinates>139.9361187,38.947599,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1419">
+        <Placemark id="1421">
             <name>Point 178</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4091,11 +4091,11 @@
                     <value>字大畑山地内の県道海ケ沢松山線（362号）と県道円能寺砂越停車戦の交差する十字路でクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1418">
+            <Point id="1420">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1427">
+        <Placemark id="1429">
             <name>Point 179</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4114,11 +4114,11 @@
                     <value>字草田地内の民家敷地内において柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1426">
+            <Point id="1428">
                 <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1435">
+        <Placemark id="1437">
             <name>Point 180</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4137,11 +4137,11 @@
                     <value>字赤田淵地内の田沢橋付近にある水田においてクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1434">
+            <Point id="1436">
                 <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1443">
+        <Placemark id="1445">
             <name>Point 181</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4160,11 +4160,11 @@
                     <value>字水上地内より字下千刈田地内の民家敷地内へ移動するクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1442">
+            <Point id="1444">
                 <coordinates>140.0778169,38.8374094,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1451">
+        <Placemark id="1453">
             <name>Point 182</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4183,11 +4183,11 @@
                     <value>北仁田地内の国道345号を西から東側に横断するクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1450">
+            <Point id="1452">
                 <coordinates>139.9317653,38.9764895,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1459">
+        <Placemark id="1461">
             <name>Point 183</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4206,11 +4206,11 @@
                     <value>字笹山地内の民家裏において柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1458">
+            <Point id="1460">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1467">
+        <Placemark id="1469">
             <name>Point 184</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4229,11 +4229,11 @@
                     <value>成興野地内の市道上において（1頭・体長0.5m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="1466">
+            <Point id="1468">
                 <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1475">
+        <Placemark id="1477">
             <name>Point 185</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4252,11 +4252,11 @@
                     <value>字笹山地内の松山小学校付近の道路でクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1474">
+            <Point id="1476">
                 <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1483">
+        <Placemark id="1485">
             <name>Point 186</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4275,11 +4275,11 @@
                     <value>字湯ノ台地内の宿泊施設付近の道路でクマ（2頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1482">
+            <Point id="1484">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1491">
+        <Placemark id="1493">
             <name>Point 187</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4298,11 +4298,11 @@
                     <value>相沢地内の国道345線上でクマ（1頭・体長0.5m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="1490">
+            <Point id="1492">
                 <coordinates>139.9434201,38.8775504,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1499">
+        <Placemark id="1501">
             <name>Point 188</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4321,11 +4321,11 @@
                     <value>字舘ノ内地内でクマ（3頭・体長1.0m、体長0.5m）を目撃。民家敷地内において柿の食害。周辺道路で複数の糞を確認</value>
                 </Data>
             </ExtendedData>
-            <Point id="1498">
+            <Point id="1500">
                 <coordinates>139.9119005,38.9801234,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1507">
+        <Placemark id="1509">
             <name>Point 189</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4344,11 +4344,11 @@
                     <value>字中里地内の民家敷地内の柿の木付近でクマ（3頭）を目撃。1週間前より出没しており、以前は栗の木で目撃。</value>
                 </Data>
             </ExtendedData>
-            <Point id="1506">
+            <Point id="1508">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1515">
+        <Placemark id="1517">
             <name>Point 190</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4367,11 +4367,11 @@
                     <value>字深谷地内の果樹園において柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1514">
+            <Point id="1516">
                 <coordinates>139.9475834,38.9369814,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1523">
+        <Placemark id="1525">
             <name>Point 191</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4390,11 +4390,11 @@
                     <value>字広野地内の県道酒田鶴岡線においてクマ（1頭・体長0.8m）と走行中の車両が衝突。同日17:20頃、クマ（1頭・体長0.8m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1522">
+            <Point id="1524">
                 <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1531">
+        <Placemark id="1533">
             <name>Point 192</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4413,11 +4413,11 @@
                     <value>字大平沢地内の畑地においてクマ（1頭）を目撃。柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1530">
+            <Point id="1532">
                 <coordinates>139.9998517,38.9513686,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1539">
+        <Placemark id="1541">
             <name>Point 193</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4436,11 +4436,11 @@
                     <value>字吉ケ沢地内の民家敷地内においてクマ（1頭・体長0.7m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1538">
+            <Point id="1540">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1547">
+        <Placemark id="1549">
             <name>Point 194</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4459,11 +4459,11 @@
                     <value>字西田地内にある鉄塔付近においてクマ（1頭・体長0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1546">
+            <Point id="1548">
                 <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1555">
+        <Placemark id="1557">
             <name>Point 195</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4482,11 +4482,11 @@
                     <value>字本宮地内の民家敷地内において銀杏の実の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1554">
+            <Point id="1556">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1563">
+        <Placemark id="1565">
             <name>Point 196</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4505,11 +4505,11 @@
                     <value>字沖地内の民家敷地内において柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1562">
+            <Point id="1564">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1571">
+        <Placemark id="1573">
             <name>Point 197</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4528,11 +4528,11 @@
                     <value>字杉之崎地内においてクマ（1頭・体長0.6m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1570">
+            <Point id="1572">
                 <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1579">
+        <Placemark id="1581">
             <name>Point 198</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4551,11 +4551,11 @@
                     <value>臼ケ沢地内においてクマ（1頭・体長1.2m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="1578">
+            <Point id="1580">
                 <coordinates>139.9855366,38.8254654,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1587">
+        <Placemark id="1589">
             <name>Point 199</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4574,11 +4574,11 @@
                     <value>字甘蕨地内の果樹畑においてリンゴの食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1586">
+            <Point id="1588">
                 <coordinates>139.9593193,38.951237,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1595">
+        <Placemark id="1597">
             <name>Point 200</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4597,11 +4597,11 @@
                     <value>字宮ノ下地内のビニールハウスにおいてクマ（1頭・体長1.0m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1594">
+            <Point id="1596">
                 <coordinates>140.0828731,39.0562101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1603">
+        <Placemark id="1605">
             <name>Point 201</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4620,11 +4620,11 @@
                     <value>字下タ村地内の民家敷地内においてクマ（1頭・体長1.0m）を目撃。柿の食害（時刻情報：－）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1602">
+            <Point id="1604">
                 <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1611">
+        <Placemark id="1613">
             <name>Point 202</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4643,11 +4643,11 @@
                     <value>字本宮地内の民家敷地内においてクマの足跡を発見</value>
                 </Data>
             </ExtendedData>
-            <Point id="1610">
+            <Point id="1612">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1619">
+        <Placemark id="1621">
             <name>Point 203</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4666,11 +4666,11 @@
                     <value>字中里地内の民家敷地内においてクマ（2頭）を目撃（時刻情報：夜間）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1618">
+            <Point id="1620">
                 <coordinates>140.084668,38.8966134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1627">
+        <Placemark id="1629">
             <name>Point 204</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4689,11 +4689,11 @@
                     <value>字丸山地内にある神社敷地内において銀杏の実の食害。民家敷地内に置いてあったもみ殻袋の破損（時刻情報：－）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1626">
+            <Point id="1628">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1635">
+        <Placemark id="1637">
             <name>Point 205</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4712,11 +4712,11 @@
                     <value>字下タ村地内にある神社付近においてクマ（1頭・体長0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1634">
+            <Point id="1636">
                 <coordinates>139.991981,38.882186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1643">
+        <Placemark id="1645">
             <name>Point 206</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4735,11 +4735,11 @@
                     <value>日本海東北自動車酒田IC付近でクマ（1頭・体長不明（幼獣らしき））を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="1642">
+            <Point id="1644">
                 <coordinates>139.8479394,38.85059770000001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1651">
+        <Placemark id="1653">
             <name>Point 207</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4758,11 +4758,11 @@
                     <value>字荒興野地内においてクマ（1頭）を目撃。柿の食害</value>
                 </Data>
             </ExtendedData>
-            <Point id="1650">
+            <Point id="1652">
                 <coordinates>140.013667,38.8064659,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1659">
+        <Placemark id="1661">
             <name>Point 208</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4781,11 +4781,11 @@
                     <value>生石地内においてクマ（1頭・体1.2m）を目撃　※県直接報告</value>
                 </Data>
             </ExtendedData>
-            <Point id="1658">
+            <Point id="1660">
                 <coordinates>139.9456344,38.9196787,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1667">
+        <Placemark id="1669">
             <name>Point 209</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4804,11 +4804,11 @@
                     <value>字藤平台地内の牧場（飼料庫）においてクマ（3頭）を目撃。飼料の食害（ホールクロップサイレージ300本、子牛用ビタミン剤3袋、子牛用配合飼料3袋）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1666">
+            <Point id="1668">
                 <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1675">
+        <Placemark id="1677">
             <name>Point 210</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4827,11 +4827,11 @@
                     <value>字本宮地内においてクマの糞を発見</value>
                 </Data>
             </ExtendedData>
-            <Point id="1674">
+            <Point id="1676">
                 <coordinates>140.0277715,38.9298205,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1683">
+        <Placemark id="1685">
             <name>Point 211</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4850,11 +4850,11 @@
                     <value>字宅地地内の民家敷地内でクマの糞を発見。柿・銀杏の食害（時刻情報：－）</value>
                 </Data>
             </ExtendedData>
-            <Point id="1682">
+            <Point id="1684">
                 <coordinates>139.9674194,38.8438848,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1691">
+        <Placemark id="1693">
             <name>Point 212</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4873,11 +4873,11 @@
                     <value>字杉之崎地内においてクマ（1頭・体長0.5m）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1690">
+            <Point id="1692">
                 <coordinates>139.840955,38.8883726,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="1699">
+        <Placemark id="1701">
             <name>Point 213</name>
             <ExtendedData>
                 <Data name="Date">
@@ -4896,7 +4896,7 @@
                     <value>字南山添地内の民家敷地内においてクマ（1頭）を目撃</value>
                 </Data>
             </ExtendedData>
-            <Point id="1698">
+            <Point id="1700">
                 <coordinates>139.9457416,38.8987154,0.0</coordinates>
             </Point>
         </Placemark>
