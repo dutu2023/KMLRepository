@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1709"/>
+        <Placemark id="1175">
+            <name>Point 1</name>
+            <ExtendedData>
+                <Data name="Date">
+                    <value>2023-10-02</value>
+                </Data>
+                <Data name="Time">
+                    <value>2:30:00</value>
+                </Data>
+                <Data name="Place">
+                    <value>草津</value>
+                </Data>
+                <Data name="Area">
+                    <value>八幡</value>
+                </Data>
+                <Data name="Information">
+                    <value>字藤平台地内の牧場（飼料庫）において飼料の食害（粕19袋）</value>
+                </Data>
+            </ExtendedData>
+            <Point id="1174">
+                <coordinates>140.0228667,39.01980959999999,0.0</coordinates>
+            </Point>
+        </Placemark>
 </kml>
